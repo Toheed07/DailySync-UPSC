@@ -3,6 +3,21 @@ from bs4 import BeautifulSoup
 import os
 
 
+def get_project_root():
+    """Get the project root directory (where main.py is located)."""
+    current_file = os.path.abspath(__file__)
+    # Go up from scrap/scrap.py to project root
+    project_root = os.path.dirname(os.path.dirname(current_file))
+    return project_root
+
+
+def get_data_dir():
+    """Get the absolute path to the data directory."""
+    project_root = get_project_root()
+    data_dir = os.path.join(project_root, "data")
+    return data_dir
+
+
 website_urls = {
     "drishti": "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/",
     "indianexpress": "https://indianexpress.com/about/current-affairs/",
@@ -87,10 +102,13 @@ def scrape_article(url: str, output_file: str):
 
     # Write to output file
     try:
-        pwd = os.path.dirname(os.path.abspath(__file__))
-        output_file = os.path.join(pwd, f"../data/{output_file}")
-        os.makedirs(os.path.dirname(output_file), exist_ok=True)
-        with open(output_file, "w", encoding="utf-8") as f:
+        data_dir = get_data_dir()
+        os.makedirs(data_dir, exist_ok=True)
+        output_file_path = os.path.join(data_dir, output_file)
+        # Normalize the path to handle any issues
+        output_file_path = os.path.normpath(output_file_path)
+        
+        with open(output_file_path, "w", encoding="utf-8") as f:
             if title:
                 f.write(title + "\n")
             if meta_line:
@@ -101,24 +119,42 @@ def scrape_article(url: str, output_file: str):
                 f.write("No content found")
     except Exception as e:
         print(f"Error writing file: {e}")
-        return
+        return None
 
-    print(f"Content saved to: {output_file}")
+    print(f"Content saved to: {output_file_path}")
     print(f"Title: {title}")
     print(f"Content length: {len(content)} characters")
 
-    return output_file
+    return output_file_path
 
 
 def scrape_all_articles(date: str):
     articles = []
     for website, url in website_urls.items():
         output_file = scrape_article(url=url + date, output_file=f"{date}_{website}.txt")
-        with open(output_file, "r") as f:
-            content = f.read()
-        articles.append(content)
+        
+        # Check if scrape_article returned a valid file path
+        if output_file is None:
+            print(f"Warning: Failed to scrape {website} for date {date}")
+            continue
+        
+        # Check if file exists before trying to read it
+        if not os.path.exists(output_file):
+            print(f"Warning: File not found: {output_file}")
+            continue
+        
+        try:
+            with open(output_file, "r", encoding="utf-8") as f:
+                content = f.read()
+            articles.append(content)
+        except Exception as e:
+            print(f"Error reading file {output_file}: {e}")
+            continue
         # os.remove(output_file)
 
+    if not articles:
+        raise Exception(f"No articles were successfully scraped for date {date}")
+    
     final_content = "\n".join(articles)
     return final_content
 
