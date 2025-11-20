@@ -29,6 +29,12 @@ ENV/
 # Environment variables
 .env
 
+# Google Cloud credentials (NEVER commit these!)
+*.json
+!package.json
+!tsconfig.json
+!*.config.json
+
 # IDE
 .vscode/
 .idea/
