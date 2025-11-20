@@ -48,6 +48,7 @@ Thumbs.db
 # Data files (optional - remove if you want to include)
 data/
 *.txt
+!requirements.txt
 
 # Git
 .git/
