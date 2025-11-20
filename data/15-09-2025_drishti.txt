@@ -1,0 +1,384 @@
+15 Sep 202525 min readDaily SaraanshHomefilterHide Menu
+
+
+Facts for UPSC Mains
+
+
+• GS Paper - 2
+• Government Policies & Interventions
+• GS Paper - 3
+• Mineral & Energy Resources
+
+
+Why in News?
+
+
+TheMinistry of New and Renewable Energyis formulating a plan to create a fullyindigenous solar manufacturing ecosystemby 2028, encompassingmodules, cells, wafers, and ingots.
+
+
+What is the Solar Manufacturing Value Chain?
+
+
+• About:Thesolar manufacturing value chainencompasses the complete process of convertingraw materialsinto a fully functionalsolar photovoltaic (PV) module.It is a sequential workflow and the chain is generally divided intoUpstream(high-tech, capital-intensive) andDownstream(labor-intensive) segments.
+• Key Stages:Upstream Manufacturing (The Core Components):Polysilicon:The process begins withmetallurgical-grade siliconderived fromquartz sand, which is then processed intopolysilicon.Ingots:Thepolysiliconis melted and crystallized into large, cylindricalblockscalledingots.Wafers:Ingotsare sliced intoultra-thin, disc-shapedsheetsusing awire saw. Thesesheets, calledwafers, are the fundamentalbuilding blockof asolar cell.Solar Cell:Thewafersundergodoping(adding phosphorus and boron to form an electric field),printing(metal contacts for electron flow), andanti-reflective coatingto minimize light reflection. The result is asolar cellcapable of converting sunlight intoelectricity.Downstream Manufacturing (Assembly & Installation):Module Manufacturing:Solar cells are interconnected, laminated, sealed betweenglassandpolymer back sheets, and framed to form asolar module.System Installation & Integration:Modules are assembled into arrays, connected toinverters, mounting structures, and wiring, and installed onrooftops, fields, or solar farms.
+• Current Status:India'ssolar module capacityhas already touched100 GW, butsolar cell capacityis only27 GW, whileingot and wafer capacity is just 2.2 GW,making it heavily reliant on imports, particularly from China.Indiaaimsto finalize aroadmap for Swadeshi polysilicon productionin the coming years.
+• Proposed Reforms:A key step is the proposed expansion of theApproved List of Models and Manufacturers (ALMM),currently for modules, to includesolar cells, wafers, and ingots.ALMM mandates that solar project developers purchase equipment from approved models and manufacturers, promotingdomestic manufacturingand acting as anon-tariff barrierto low-quality or import-dependent products.
+
+• It is a sequential workflow and the chain is generally divided intoUpstream(high-tech, capital-intensive) andDownstream(labor-intensive) segments.
+
+• Upstream Manufacturing (The Core Components):Polysilicon:The process begins withmetallurgical-grade siliconderived fromquartz sand, which is then processed intopolysilicon.Ingots:Thepolysiliconis melted and crystallized into large, cylindricalblockscalledingots.Wafers:Ingotsare sliced intoultra-thin, disc-shapedsheetsusing awire saw. Thesesheets, calledwafers, are the fundamentalbuilding blockof asolar cell.Solar Cell:Thewafersundergodoping(adding phosphorus and boron to form an electric field),printing(metal contacts for electron flow), andanti-reflective coatingto minimize light reflection. The result is asolar cellcapable of converting sunlight intoelectricity.
+• Downstream Manufacturing (Assembly & Installation):Module Manufacturing:Solar cells are interconnected, laminated, sealed betweenglassandpolymer back sheets, and framed to form asolar module.System Installation & Integration:Modules are assembled into arrays, connected toinverters, mounting structures, and wiring, and installed onrooftops, fields, or solar farms.
+
+• Polysilicon:The process begins withmetallurgical-grade siliconderived fromquartz sand, which is then processed intopolysilicon.
+• Ingots:Thepolysiliconis melted and crystallized into large, cylindricalblockscalledingots.
+• Wafers:Ingotsare sliced intoultra-thin, disc-shapedsheetsusing awire saw. Thesesheets, calledwafers, are the fundamentalbuilding blockof asolar cell.
+• Solar Cell:Thewafersundergodoping(adding phosphorus and boron to form an electric field),printing(metal contacts for electron flow), andanti-reflective coatingto minimize light reflection. The result is asolar cellcapable of converting sunlight intoelectricity.
+
+• Module Manufacturing:Solar cells are interconnected, laminated, sealed betweenglassandpolymer back sheets, and framed to form asolar module.
+• System Installation & Integration:Modules are assembled into arrays, connected toinverters, mounting structures, and wiring, and installed onrooftops, fields, or solar farms.
+
+• Indiaaimsto finalize aroadmap for Swadeshi polysilicon productionin the coming years.
+
+• ALMM mandates that solar project developers purchase equipment from approved models and manufacturers, promotingdomestic manufacturingand acting as anon-tariff barrierto low-quality or import-dependent products.
+
+
+What are the Challenges in Developing the Indigenous Solar Value Chain?
+
+
+• H – High-Cost & Scale Issues:Indian-made components are initiallyexpensiveand less competitive due todis-economies of scale (business's cost per unit increases instead of decreasing as it expands production).
+• U – Upstream Infrastructure Gaps:Polysilicon and wafer manufacturingistechnology-intensiveand capital-heavy, with limited domestic experience.
+• R – RoW & Land Bottlenecks:Land acquisitionandRight of Way (RoW)issues block projects.
+• D – Delayed Power Purchase Agreements (PPAs):Procurement delays byStates/Discomshurt project viability.
+• L – Lack of Experience:Limited experience in advancedsolar manufacturing.
+• E – Export/Import Dependence:Reliance onimportsincreases vulnerability.
+
+
+Achievements in Solar Energy
+
+
+• Renewable Energy:India surpasses251.5 GW non-fossil energy capacity, achieving overhalf of its 2030 target of 500 GW.
+• PM Suryaghar Yojana:India has already installed20 lakh rooftop solar projects under thePM Suryaghar Yojana, with expectations to cross50 lakh installations soon.
+• PM-KUSUM scheme:Under thePM-KUSUM scheme, over1.6 million solar pumpshave been installed or solarised, reducingdiesel useby1.3 billion litres annuallyand cuttingCO2 emissionsby40 million tonnes.
+
+
+What Steps are Needed to Develop a Indigenous Solar Value Chain in India?
+
+
+• Mnemonic: SHINE
+• S – Sustained Policy Support: ExpandALMM, ensure stablePLI, phasedcustoms duties, and cleartechnology acquisitionplans.
+• H – Harness Investment: BuildGreenfield manufacturing, providecapital support, and resolveland/RoWissues.
+• I – Innovation & R&D: Promotenext-generation technologieslikePerovskiteand strengthenancillary industries.
+• N – Navigate Coordination: Streamlinestate-level execution, ensureDiscom financial stability, and align with schemes likePM Suryaghar YojanaandPM-KUSUM.
+• E – Expand Demand: Drivedomestic solar manufacturing demandthrough policy and deployment programs.
+
+
+Conclusion
+
+
+India’sgreen energy transitionis crucial to achievingnet-zero by 2070, with targets of1,800 GW renewable capacity by 2047and5,000 GW by 2070. An integrated roadmap is needed: developdomestic solar manufacturing, resolveland and RoW bottlenecks, fast-trackPPA signings, and institutionalizeALMMforwafers, ingots, and polysilicon, enhancingenergy security, sustainability, and India’sglobal solar leadership.
+
+Drishti Mains Question:
+
+Q.Discuss the challenges in establishing indigenous solar manufacturing and measures to overcome them.
+
+
+UPSC Civil Services Examination, Previous Year Questions (PYQs)
+
+
+
+Prelims
+
+
+Q.Consider the following statements: (2016)
+
+• The International Solar Alliance was launched at the United Nations Climate Change Conference in 2015.
+• The Alliance includes all the member countries of the United Nations.
+
+Which of the statements given above is/are correct?
+
+
+Mains
+
+
+Q. India has immense potential for solar energy though there are regional variations in its developments. Elaborate. (2020)
+
+
+Facts for UPSC Mains
+
+
+• GS Paper - 2
+• Government Policies & Interventions
+• GS Paper - 3
+• Environmental Pollution & Degradation
+
+
+Why in News?
+
+
+Great Nicobar Island (GNI) Projecthas drawn attention as one of India’s most ambitious infrastructure plans in theIndian Ocean Region (IOR).
+
+• Despite environmental concerns, the project is crucial for turningGreat Nicobar into a global maritimehub while considering ecology and tribal welfare.
+
+
+What is the Great Nicobar Island (GNI) Project?
+
+
+• About:The GNI Project, conceived byNITI Aayog and launched in 2021,aims to build anInternational Container Transshipment Terminal (ICTT),agreenfield international airport,atownship, and agas–solar power plant.It is implemented byAndaman and Nicobar Islands Integrated Development Corporation (ANIIDCO).It aligns withIndia’s Maritime Vision 2030and is one of the key projects under theAmrit Kaal Vision 2047.
+• Strategic Significance:Transshipment Hub:TheICTTreduces India’s reliance on foreign ports likeSingapore and Colombo, integrating India into global supply chains.Greenfield Airport:Enhances civilian connectivity, tourism, and dual-use defence capability.Strategic Positioning Advantage:Nicobar’s location near theMalacca,Sunda, and Lombok Straitsallows India to monitor vital sea lanes for global trade and energy supply.Great Nicobar’s location gives India proximity toSabang (Indonesia), Coco Island (Myanmar), and the proposed Kra Canal (Thailand), underscoring its central role in Indo-Pacific sea routes.Great Nicobar lies almostequidistant from Colombo, Port Klang, and Singapore, placing India at the centre of regional sea trade.Maritime Security:The Andaman & Nicobar Islands serve asIndia’s first line of maritime defenceand share sea boundaries withMyanmar, Thailand, Indonesia, and Bangladesh, giving India a vastexclusive economic zoneandcontinental shelfunderUnited Nations Conference on the Laws of the Sea, 1982 (UNCLOS).GNI strengthens India’s naval reach in the Indo-Pacific, countering piracy, trafficking, terrorism, and great-power rivalries.Positions India as a proactive maritime power amidst rising presence of China and other navies in the IOR.Policy Alignment:SupportsAct East Policy (2014)and theQUAD’s Indo-Pacific strategy,strengthening India’s role in regional security.
+
+• It is implemented byAndaman and Nicobar Islands Integrated Development Corporation (ANIIDCO).
+• It aligns withIndia’s Maritime Vision 2030and is one of the key projects under theAmrit Kaal Vision 2047.
+
+• Transshipment Hub:TheICTTreduces India’s reliance on foreign ports likeSingapore and Colombo, integrating India into global supply chains.
+• Greenfield Airport:Enhances civilian connectivity, tourism, and dual-use defence capability.
+• Strategic Positioning Advantage:Nicobar’s location near theMalacca,Sunda, and Lombok Straitsallows India to monitor vital sea lanes for global trade and energy supply.Great Nicobar’s location gives India proximity toSabang (Indonesia), Coco Island (Myanmar), and the proposed Kra Canal (Thailand), underscoring its central role in Indo-Pacific sea routes.Great Nicobar lies almostequidistant from Colombo, Port Klang, and Singapore, placing India at the centre of regional sea trade.
+• Maritime Security:The Andaman & Nicobar Islands serve asIndia’s first line of maritime defenceand share sea boundaries withMyanmar, Thailand, Indonesia, and Bangladesh, giving India a vastexclusive economic zoneandcontinental shelfunderUnited Nations Conference on the Laws of the Sea, 1982 (UNCLOS).GNI strengthens India’s naval reach in the Indo-Pacific, countering piracy, trafficking, terrorism, and great-power rivalries.Positions India as a proactive maritime power amidst rising presence of China and other navies in the IOR.
+• Policy Alignment:SupportsAct East Policy (2014)and theQUAD’s Indo-Pacific strategy,strengthening India’s role in regional security.
+
+• Great Nicobar’s location gives India proximity toSabang (Indonesia), Coco Island (Myanmar), and the proposed Kra Canal (Thailand), underscoring its central role in Indo-Pacific sea routes.
+• Great Nicobar lies almostequidistant from Colombo, Port Klang, and Singapore, placing India at the centre of regional sea trade.
+
+• GNI strengthens India’s naval reach in the Indo-Pacific, countering piracy, trafficking, terrorism, and great-power rivalries.
+• Positions India as a proactive maritime power amidst rising presence of China and other navies in the IOR.
+
+• Tribal Safeguards:Large-scale development in GNI is permitted only after consultations with theMinistry of Tribal Affairs, Directorate of Tribal Welfare and Andaman Adim Janjati VikasSamiti (AAJVS),as mandated by theJarawa Policy (2004) and Shompen Policy (2015).The policies appoint AAJVS as the trustee ofParticularly Vulnerable Tribal Groups (PVTGs)and ensure the Shompen community’s welfare is given top priority in all major projects.In line with this, the Empowered Committee, after mandatory consultation with theNational Commission for Scheduled Tribes (NCST)underArticle 338A(9),confirmed that tribal interests will remain protected.
+• Environmental Safeguards:The Project incorporates strict environmental safeguards, following theEnvironmental Impact Assessment (EIA) Notification, 2006,and based on detailed EIAs and anEnvironmental Management Plan (EMP).To protect wildlife,8 corridors have been plannedto ensure the safe movement ofarboreal animals, snakes, crabs, and crocodiles,minimizing ecological disruption during development.To compensate for tree felling caused by the GNI project, compensatoryafforestation is planned in Haryana, as the Andaman & Nicobar Islands already have over 75% forest cover.
+
+• The policies appoint AAJVS as the trustee ofParticularly Vulnerable Tribal Groups (PVTGs)and ensure the Shompen community’s welfare is given top priority in all major projects.In line with this, the Empowered Committee, after mandatory consultation with theNational Commission for Scheduled Tribes (NCST)underArticle 338A(9),confirmed that tribal interests will remain protected.
+
+• In line with this, the Empowered Committee, after mandatory consultation with theNational Commission for Scheduled Tribes (NCST)underArticle 338A(9),confirmed that tribal interests will remain protected.
+
+• To protect wildlife,8 corridors have been plannedto ensure the safe movement ofarboreal animals, snakes, crabs, and crocodiles,minimizing ecological disruption during development.
+• To compensate for tree felling caused by the GNI project, compensatoryafforestation is planned in Haryana, as the Andaman & Nicobar Islands already have over 75% forest cover.
+
+
+Great Nicobar Island
+
+
+• TheAndaman and Nicobar Islandscomprise 836 islands, divided by theTen Degree Channelinto theAndamans (north) and Nicobars (south).
+• Great Nicobar, the largest Nicobar island(910 sq km of rainforest). It hosts Indira Point, India’s southernmost tip, just 90 nautical miles from Sumatra (Indonesia).
+• Great Nicobar has two national parks, a biosphere reserve, small populations of theShompen and Nicobarese tribal peoples,and a few thousand non-tribal settlers.
+• Great Nicobar Biosphere Reservewas included in the list ofMan and Biosphere (MAB)Program of UNESCO in 2013.
+
+
+Conclusion
+
+
+The Great Nicobar Island Project isnot merely an infrastructure plan but a strategic-economic multiplier.It securesIndia’s maritime future,reduces logistical dependence on foreign ports, and unlocks regional growth, thereby positioning India as a major player in the Indo-Pacific.
+
+Click here to Read:Concerns Associated with the Great Nicobar Island Project
+
+Drishti Mains Question:
+
+Q.Discuss the role of the Great Nicobar Island Project in India’s Maritime Vision 2030 and its alignment with the Amrit Kaal Vision 2047.
+
+
+UPSC Civil Services Examination, Previous Year Question (PYQ)
+
+
+
+Prelims
+
+
+Q. Consider the following statements: (2018)
+
+• The Barren Island volcano is an active volcano located in the Indian territory.
+• Barren Island lies about 140 km east of Great Nicobar.
+• The last time the Barren Island volcano erupted was in 1991 and it has remained inactive since then.
+
+Which of the statements given above is/are correct?
+
+Q. Which one of the following pairs of islands is separated from each other by the ‘Ten Degree Channel’? (2014)
+
+(a) Andaman and Nicobar
+
+(b) Nicobar and Sumatra
+
+(c) Maldives and Lakshadweep
+
+
+Mains
+
+
+Q.Environmental impact assessment studies are increasingly undertaken before the project is cleared by the government. Discuss the environmental impacts of coal- fired thermal plants located at Pitheads.(2023)
+
+
+Important Facts For Prelims
+
+
+• Quick Facts For Prelims
+• GS Paper - 2
+• Issues Related to SCs & STs
+• Government Policies & Interventions
+
+
+Why in News?
+
+
+Adivasis from theHo tribe in Jharkhand’s Kolhan regionprotested against allegedadministrative interference in the Manki-Munda system, with tensions driven by vacant posts, hereditary inefficiencies, and calls for reforms.
+
+
+What is the Manki-Munda System?
+
+
+• Manki-Munda System:It is a centuries-oldself-governance framework of the Ho adivasi community.Each village is led by ahereditary Munda, responsible for resolving local disputes, while a group of8–15 villages, called a pidh, is overseen by aManki, handling cases unresolved at the village level.The system isdecentralized and purely socio-political,with no role inrevenue collection, land management, or taxation.
+• British Intervention: Post-Battle of Plassey (1757) and Buxar (1764), East India Company gaineddiwani rights,introducing taxation.Permanent Settlement Act (1793)forced zamindars to extract land revenue, seizing Ho lands, triggeringHo (1821–22) and Kol (1831) revolts.To manage the region, the British co-opted the Manki-Munda system instead of suppressing it.Captain Thomas Wilkinson (1833)codified the system inWilkinson’s Rules,formally recognising Mundas and Mankis and integrating them into colonial administration.This introducedprivate property and pattas,transforming collective landholding to individual ownership and led to demographic changes with influx ofoutsiders (dikkus).
+• Post-Independence:Kolhan largely retainedWilkinson’s Rules,with courts recognizing them as valid customary practices untilMora Ho vs State of Bihar (2000),in which the Patna High Court clarified they arecustoms, not formal law, but allowed continued practice.2021 Jharkhand initiative (Nyay Manch)proposed reform, but not enacted.
+
+• Each village is led by ahereditary Munda, responsible for resolving local disputes, while a group of8–15 villages, called a pidh, is overseen by aManki, handling cases unresolved at the village level.
+• The system isdecentralized and purely socio-political,with no role inrevenue collection, land management, or taxation.
+
+• Permanent Settlement Act (1793)forced zamindars to extract land revenue, seizing Ho lands, triggeringHo (1821–22) and Kol (1831) revolts.
+• To manage the region, the British co-opted the Manki-Munda system instead of suppressing it.
+• Captain Thomas Wilkinson (1833)codified the system inWilkinson’s Rules,formally recognising Mundas and Mankis and integrating them into colonial administration.
+• This introducedprivate property and pattas,transforming collective landholding to individual ownership and led to demographic changes with influx ofoutsiders (dikkus).
+
+• 2021 Jharkhand initiative (Nyay Manch)proposed reform, but not enacted.
+
+
+What are the Key Facts About Ho Tribe?
+
+
+• About:TheHo or Kolhaare anAustroasiatic Munda ethnic groupof India, concentrated mainly inJharkhand’s Kolhan regionand parts ofOdisha, with smaller populations in West Bengal, Bihar, Bangladesh, and Nepal.
+• Language: SpeakHo language, anAustroasiatic tonguerelated to Mundari.It is written inDevanagari, Latin, and Warang Citi (native script developed by Lako Bodra).
+• History: Ho presence dates back around 4000–3500 years, with migrations from Southeast Asia.They took part in theKol uprising (1831–33)against exploitativenon-tribal landlords (dikkus). Also active in the1857 revoltunder the Raja of Porahat. Traditionally resisted Mughal, Maratha, and British incursions.
+• Society & Culture: Strongself-governancethrough theManki-Munda systemin Kolhan.Rich festival traditions likeMage Parab (creator god festival),Baa Parab (festival of flowers),Sohrai (agricultural festival), andJomnama Parab (harvest).Dance and musiccentral to culture; performances held in theakhra (village ground).
+• Economy & Forests: Over 80% of the Ho people are engaged in agriculture, and they were among thefirst adivasi communities to adopt settled farming, with some also involved in mining activities.Strong dependence onsal forests. The community strongly resists replacement of sal with teak plantations.
+
+• It is written inDevanagari, Latin, and Warang Citi (native script developed by Lako Bodra).
+
+• They took part in theKol uprising (1831–33)against exploitativenon-tribal landlords (dikkus). Also active in the1857 revoltunder the Raja of Porahat. Traditionally resisted Mughal, Maratha, and British incursions.
+
+• Rich festival traditions likeMage Parab (creator god festival),Baa Parab (festival of flowers),Sohrai (agricultural festival), andJomnama Parab (harvest).
+• Dance and musiccentral to culture; performances held in theakhra (village ground).
+
+• Strong dependence onsal forests. The community strongly resists replacement of sal with teak plantations.
+
+
+UPSC Civil Services Examination, Previous Year Question (PYQ)
+
+
+
+Prelims:
+
+
+Q.1Consider the following pairs:(2013)
+
+1. Limboo (Limbu)2. Karbi3. Dongaria Kondh4. Bonda
+
+SikkimHimachal PradeshOdishaTamil Nadu
+
+Which of the above pairs are correctly matched?
+
+Q.2Consider the following statements about Particularly Vulnerable Tribal Groups (PVTGs) in India: (2019)
+
+• PVTGs reside in 18 States and one Union Territory.
+• A stagnant or declining population is one of the criteria for determining PVTG status.
+• There are 95 PVTGs officially notified in the country so far.
+• Irular and Konda Reddi tribes are included in the list of PVTGs.
+
+Which of the statements given above are correct?
+
+Q3.Under the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, who shall be the authority to initiate the process for determining the nature and extent of individual or community forest rights or both? (2013)
+
+(a) State Forest Department
+
+(b) District Collector/Deputy Commissioner
+
+(c) Tahsildar/Block Development Officer/Mandal Revenue Officer
+
+
+Rapid Fire
+
+
+• Rapid Fire CA
+• Quick Facts For Prelims
+• GS Paper - 2
+• Government Policies & Interventions
+
+The Prime Minister inaugurated India’s firstbamboo-basedbioethanolplantin Golaghat, Assam, marking a major step towardenergy self-sufficiency and green energy promotion.
+
+• Economic Impact:Bioethanol plant will source5 lakh tonnes of bamboo annuallyfrom Assam and other northeastern states.The project willbenefit local farmers and tribal communities, providing aRs 200-crore boostto Assam’s rural economy.After the amendment to theIndian Forest Act, 1927,bamboo is no longer classified as a tree,lifting the ban on its cutting. This change supports thelivelihoods of forest communitiesand private growers.It aligns withIndia’s Viksit Bharat vision, focusing onhydrocarbonexploration andgreen energy initiatives, and aims to reduce dependence onfossil fuels.
+• Bioethanol:It is a high-octane biofuel (C2H5OH) producedbiologically from biomass like corn, sugarcane, grains, bamboo and vegetable residues.It is mainly used as agasoline additive, with engines now capable of burning pure ethanol.Key production steps include fermentation of sugars, pretreatment ofstarch or cellulose, distillation,and dehydration to fuel-grade ethanol.
+
+• After the amendment to theIndian Forest Act, 1927,bamboo is no longer classified as a tree,lifting the ban on its cutting. This change supports thelivelihoods of forest communitiesand private growers.
+• It aligns withIndia’s Viksit Bharat vision, focusing onhydrocarbonexploration andgreen energy initiatives, and aims to reduce dependence onfossil fuels.
+
+• It is mainly used as agasoline additive, with engines now capable of burning pure ethanol.
+• Key production steps include fermentation of sugars, pretreatment ofstarch or cellulose, distillation,and dehydration to fuel-grade ethanol.
+
+Read more:India Achieves 20% Ethanol Blending in Petrol
+
+
+Rapid Fire
+
+
+• Rapid Fire CA
+• Quick Facts For Prelims
+• GS Paper - 3
+• Defence Technology
+• Indigenization of Technology
+
+INS Aravali, Indian Navy's latest Naval Base, was commissioned atGurugramto strengthen Maritime Domain Awareness (MDA) capability.
+
+
+INS Aravali
+
+
+• INS Aravali, deriving its name from the unwaveringAravali range.
+• It isdesigned to strengthen the Navy’s information and communicationinfrastructure.Itwould not only be a hub of technology, but also ofacollaborative vision ofMAHASAGAR.
+• The base is guided by itsmotto:  ‘सामुद्रिकसुरक्षायाः सहयोगं’ (Maritime Security through Collaboration).
+• It will help various information and communication centers of the Indian Navy, and strengthenIndia’s Command, Control, Communications, andMaritime Domain Awareness (MDA) framework.
+• Reinforce India’s position as the Preferred Security Partner in theIndian Ocean Region.
+
+Read more:Information fusion Centre of Indian Navy
+
+
+Place In News
+
+
+• GS Paper - 2
+• Groupings & Agreements Involving India and/or Affecting India's Interests
+
+ThePhilippineshas strongly opposedChina’s announcementto establish anature reservein theSouth China Seaat the disputedScarborough Shoal, which has long been aflashpoint of tensionsandstandoffsbetween the two countries.
+
+
+Scarborough Shoal
+
+
+• About:Itis atriangular atoll,located200 km from the Philippines coast,and within itsexclusive economic zone (EEZ)under UNCLOS(1982).It is part of the broader South China Sea disputes(Spratlys, Paracels, Nine-Dash Line), where China’snine-dash lineoverlaps with the EEZs of Vietnam, Malaysia, Brunei, and Indonesia.
+• Significance:Rich in fish stocks and provides natural shelter for vessels.Strategically placed near shipping lanes that handleUSD 3 trillion annual global trade.Control gives a geopolitical and military edge in one of the busiest waterways.
+• The2016Permanent Court of Arbitrationrulingrejected China’s broadSouth China Sea claimsand itsblockade of the shoal, but left thesovereignty issue unresolved, causing ongoing tensions.
+
+• It is part of the broader South China Sea disputes(Spratlys, Paracels, Nine-Dash Line), where China’snine-dash lineoverlaps with the EEZs of Vietnam, Malaysia, Brunei, and Indonesia.
+
+• Strategically placed near shipping lanes that handleUSD 3 trillion annual global trade.
+• Control gives a geopolitical and military edge in one of the busiest waterways.
+
+Read More:South China Sea
+
+
+Rapid Fire
+
+
+• Rapid Fire CA
+• GS Paper - 2
+• GS Paper - 3
+• Quick Facts For Prelims
+• Government Policies & Interventions
+
+India is turning toContracts for Difference (CfD)as a central mechanism to mobilize nearlyUSD 1 trillion ingreen financefor its 500 GW renewable energy target by 2030.
+
+• CfD is a financial agreement betweenrenewable energy producers and the government to stabilize revenues. If market prices fall below an agreed strike price, the government pays the producer the difference and if prices rise above it, the producer returns the surplus.CfDs reduce risk and are widely used in Europe for renewable projects.
+• Green financeencompasses financial products and services designed to promote environmental sustainability. To meet itsParis Agreement targets,India needsUSD 2.5 trillion by 2030.
+• India needsUSD 10 trillion by 2070for itsnet zero goal, focusing ongreen finance as essential for development.
+• Green Financing Initiatives in India:India finances renewable energy through theNational Clean Energy and Environment Fund (NCEEF)funded by coal cess.Indian Renewable Energy Development Agency (IREDA)concessional loans.Priority Sector Lending (PSL)mandated by the Reserve Bank of India.Green, Social, and Sustainability (GSS) Bonds.Carbon markets and credits,and crowdfunding platforms like Bettervest for rural projects.
+
+• CfDs reduce risk and are widely used in Europe for renewable projects.
+
+• Indian Renewable Energy Development Agency (IREDA)concessional loans.
+• Priority Sector Lending (PSL)mandated by the Reserve Bank of India.
+• Green, Social, and Sustainability (GSS) Bonds.
+• Carbon markets and credits,and crowdfunding platforms like Bettervest for rural projects.
+
+Read more:National Green Financing Institution

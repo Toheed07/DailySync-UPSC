@@ -1,0 +1,514 @@
+13 Aug 202537 min readDaily SaraanshHomefilterHide Menu
+
+
+Governance
+
+
+• GS Paper - 3
+• Robotics
+• Artificial Intelligence
+• Scientific Innovations & Discoveries
+• IT & Computers
+• GS Paper - 2
+• Government Policies & Interventions
+
+For Prelims:Artificial intelligence,Large Multimodal Models,Non-personal datasets,Generative AI,MSMEs
+
+For Mains:Impact of AI in IT Sector, Opportunities & Challenges of AI for India's Economic Growth, Key Challenges AI Poses to India's Traditional Economy
+
+
+Why in News?
+
+
+TheIndian IT sector,a USD 280 billion industry employing 5.8 million people, is undergoing a profound shift asArtificial Intelligence transforms service delivery and business operations.This disruption, however has led to moves likeTCS halting experienced hiring and cutting 12,000 jobs, sparking concerns over the future workforce and the evolving nature of IT employment.
+
+
+What are the Key Applications of AI in the IT Sector?
+
+
+• Productivity, Automation & Workforce Transformation:AI hasincreased software development productivitythrough tools likecoding assistants and automated code generation (GitHub Copilot by Microsoft).AIautomates routine IT tasks, reducing errorsand boosting efficiency. For instance,UiPathis aleading robotic process automation (RPA) tool that uses AI toautomate repetitive, rule-based tasks.Developersare evolving intoAI supervisorsfocusing onstrategy, ethics, domain-specific logic, and security.McKinseypredicts thatbetween2030 and 2060,generative AI could automate about50% of global work activities.
+• Enhanced Cybersecurity & Threat Detection: AI algorithmsdetectunusual patternsin real-time for earlythreat identificationandprevention.Machine learning modelsanalyze large datasets topredict attacks, while AI-driven systemsrespond faster than humans, strengthening IT security.Darktrace’s “Enterprise Immune System”uses AI tolearn normal network behavior and flags unusual activities, like unexpected file transfers or logins from new locations, as potential threats.
+• Improved Data Management: AI automatesdatacollection,storage, andanalysisof large,unstructured datasets, enabling sectors likeCustomer Relationship Management (CRM)to better understandcustomer behaviorand drivebusiness growth.
+• Predictive Maintenance:AI analyzeshistorical datato forecast hardware and software failures, enablingproactive maintenancethat reducesdowntimeand extends thelifespanof IT infrastructure.For instance, Company SplunkusesAI to predict system failures from performance data,enablingproactive maintenance.
+
+• AIautomates routine IT tasks, reducing errorsand boosting efficiency. For instance,UiPathis aleading robotic process automation (RPA) tool that uses AI toautomate repetitive, rule-based tasks.
+• Developersare evolving intoAI supervisorsfocusing onstrategy, ethics, domain-specific logic, and security.McKinseypredicts thatbetween2030 and 2060,generative AI could automate about50% of global work activities.
+
+• McKinseypredicts thatbetween2030 and 2060,generative AI could automate about50% of global work activities.
+
+• Darktrace’s “Enterprise Immune System”uses AI tolearn normal network behavior and flags unusual activities, like unexpected file transfers or logins from new locations, as potential threats.
+
+• For instance, Company SplunkusesAI to predict system failures from performance data,enablingproactive maintenance.
+
+
+What are the Key Challenges in the Indian IT Sector’s AI Adoption Journey?
+
+
+• Skill Gap & Workforce Displacement:Rapid AI adoption has created a significantskill gap, with urgent need to retrain the workforce inAI tools,data science,cybersecurity, andethical AI.Routine coding, maintenance, and back-office roles face automation risks, leading to potentialunemploymentandwage stagnationin certain segments.AWorld Economic Forum (WEF)report suggests thatAI and automationcould displace up to85 million jobs by 2025.
+• Regulatory, Ethical & Security Concerns:Ensuring AI systems aretransparent,unbiased, andGDPR-compliantadds operational complexity.Protectingdata privacy and securityis vital as AI processessensitive data,requiringregular ethical audits and strict accountability.India’sDigital Personal Data Protection Act, 2023 (DPDP Act)sets aframework for data privacy, but itsapplicability to large-scale data collectionandprocessing for AI model trainingremainsunclear..
+• Integration Challenges with Legacy Systems:Many Indian IT firms operate onoutdated legacy infrastructure, making AI integration complex, costly, and time-consuming.Migrating to AI-ready systems often requires overhauling existing architectures, which disrupts operations and demands substantial investment.
+• Global Competition & Infrastructure Gaps:Competition fromPhilippines,Vietnam, andEastern Europein AIchallenges India’s cost advantage.Limitedhigh-performance computing,advanced research facilities, andAI infrastructureslow innovation, increase reliance onforeigncloud services, and raisedata sovereigntyconcerns.Initiatives like theIndiaAI Missionaim to strengthen infrastructure, yet India continues tolag behind global leaders.
+
+• Routine coding, maintenance, and back-office roles face automation risks, leading to potentialunemploymentandwage stagnationin certain segments.
+• AWorld Economic Forum (WEF)report suggests thatAI and automationcould displace up to85 million jobs by 2025.
+
+• Protectingdata privacy and securityis vital as AI processessensitive data,requiringregular ethical audits and strict accountability.
+• India’sDigital Personal Data Protection Act, 2023 (DPDP Act)sets aframework for data privacy, but itsapplicability to large-scale data collectionandprocessing for AI model trainingremainsunclear..
+
+• Migrating to AI-ready systems often requires overhauling existing architectures, which disrupts operations and demands substantial investment.
+
+• Limitedhigh-performance computing,advanced research facilities, andAI infrastructureslow innovation, increase reliance onforeigncloud services, and raisedata sovereigntyconcerns.
+• Initiatives like theIndiaAI Missionaim to strengthen infrastructure, yet India continues tolag behind global leaders.
+
+
+How can India's IT Sector Effectively Harness the Potential of Artificial Intelligence?
+
+
+• Government-Industry Collaboration & Reskilling:The government should partner with theprivate sectorto buildAI computing infrastructure, includinghigh-performance GPU data centers.It should facilitate access tolarge, high-quality datasetsfor AI training, exemplified by platforms likeAIKoshunder theIndiaAI Mission.NationwideAI skilling missionsinAI, machine learning, and advanced software developmentare essential to align workforce capabilities withindustry needsandglobal ethical standards.
+• Driving AI-Led Product Innovation:Indian IT firms should leverageAIto enhanceproductivity, moving from traditional service-based models to creatingproprietary AI-powered enterprise solutions,cloud services, andcybersecurity products.For instance,Ola’s AI venture, Krutrim, is developing its owncloud platform.
+• Promoting AI Research through PPP:EncouragePPPforAI research,intellectual property creation, and the development ofspecialized AI hubs.The government shouldprioritizefunding deep-tech AI startupsthat focus onfoundational, high-tech solutions.A recent allocation ofRs 10,000 crore under the Fund of Funds schememarks a significant step in this direction.
+• Towards Ethical and Explainable AI:Establish robustAI ethics,data privacy, andbias mitigation standards.Government policies shouldincentivizeAI R&D,startup growth, and encourage IT firms to becomestrategic AI solution partners globally.Also, promote the use ofexplainable AI (XAI)to buildtrust with clients and regulators.
+
+• It should facilitate access tolarge, high-quality datasetsfor AI training, exemplified by platforms likeAIKoshunder theIndiaAI Mission.
+• NationwideAI skilling missionsinAI, machine learning, and advanced software developmentare essential to align workforce capabilities withindustry needsandglobal ethical standards.
+
+• For instance,Ola’s AI venture, Krutrim, is developing its owncloud platform.
+
+• The government shouldprioritizefunding deep-tech AI startupsthat focus onfoundational, high-tech solutions.
+• A recent allocation ofRs 10,000 crore under the Fund of Funds schememarks a significant step in this direction.
+
+• Government policies shouldincentivizeAI R&D,startup growth, and encourage IT firms to becomestrategic AI solution partners globally.
+• Also, promote the use ofexplainable AI (XAI)to buildtrust with clients and regulators.
+
+
+Conclusion
+
+
+AI is acatalyst for reinvention, not a threat, for the Indian IT sector. The industry must shift frommanpower-intensive outsourcingtoknowledge-driven, AI-powered innovation. Firms that embrace change, invest intalent transformation, and position themselves asstrategic AI partnerswill shapeIndia’s technological leadershipin the coming years. This vision should be a core theme at theAI Impact Summit, New Delhi, 2026.
+
+Drishti Mains Question:
+
+Examine the impact of AI on the IT sector. What are the opportunities and challenges, and how can India leverage AI for sustainable growth?
+
+
+UPSC Civil Services Examination Previous Year Question (PYQ)
+
+
+
+Prelims:
+
+
+Q. With the present state of development, Artificial Intelligence can effectively do which of the following? (2020)
+
+• Bring down electricity consumption in industrial units
+• Create meaningful short stories and songs
+• Disease diagnosis
+• Text-to-Speech Conversion
+• Wireless transmission of electrical energy
+
+Select the correct answer using the code given below:
+
+(a) 1, 2, 3 and 5 only
+
+
+Mains:
+
+
+Q.Introduce the concept of Artificial Intelligence (AI). How does Al help clinical diagnosis? Do you perceive any threat to privacy of the individual in the use of AI in healthcare? (2023)
+
+
+Facts for UPSC Mains
+
+
+• Quick Facts For Prelims
+• GS Paper - 2
+• Government Policies & Interventions
+• GS Paper - 3
+• Growth & Development
+• Infrastructure
+
+
+Why in News?
+
+
+TheParliamentpassedMerchant Shipping Bill, 2025,Carriage of Goods by Sea Bill, 2025&Coastal Shipping Bill, 2025with the aim tomodernise India’s maritime legal frameworkbyreplacing outdated colonial-era laws.
+
+
+What are the Key Provisions of the Recently Passed Maritime Bills?
+
+
+• Coastal Shipping Bill, 2025:ItamendedtheMerchant Shipping Act, 1958,(replacing Part XIV with new norms),modernizing the legal frameworkaligned with global cabotage norms.It aims toraise coastal cargo to 230 million tonnes by 2030withsimpler licensing and foreign vessel regulation.It provides forcutting foreign dependence, boosting supply security, jobs, andease of business.It mandates aNational Coastal and Inland Shipping Strategic Planand aNational Databaseto enhanceinfrastructure planning, transparency, and investor confidence.
+• Merchant Shipping Bill, 2025:Itreplaced the outdatedMerchant Shipping Act, 1958,aligning India’s maritime laws withInternational Maritime Organization (IMO) conventionsforclarity and ease of compliance.It aims to enhancesea safety standards, emergency response, environmental protection, andseafarer welfare, whilepromoting Indian shipping tonnageand India’s global maritime reputation.It authorizes thecentral government to detain vesselswithoutnationality or legal flag rightsin Indian waters, boostingmaritime securitywith a future-ready legal framework supporting India’s economic and trade ambitions.
+• Carriage of Goods by Sea Bill, 2025:It replaced theIndian Carriage of Goods by Sea Act, 1925and adopted the internationally acceptedHague-Visby Rules (1924)and its amendments, setting aglobal standard for maritime trade.TheHague-Visby Rules, 1924governsea carriage of goods, outliningcarrier and shipper rightsandliability for cargo loss or damage.It regulatesBills of Lading, documents detailing goods’ type, quantity, condition, and destination to enhance transparency and shipping efficiency.Empowers the Central Governmentto issue directions and amend rules on Bills of Lading, promoting ease of business and aligning India’s laws with global standards and trade agreements.
+
+• ItamendedtheMerchant Shipping Act, 1958,(replacing Part XIV with new norms),modernizing the legal frameworkaligned with global cabotage norms.
+• It aims toraise coastal cargo to 230 million tonnes by 2030withsimpler licensing and foreign vessel regulation.It provides forcutting foreign dependence, boosting supply security, jobs, andease of business.
+• It mandates aNational Coastal and Inland Shipping Strategic Planand aNational Databaseto enhanceinfrastructure planning, transparency, and investor confidence.
+
+• It provides forcutting foreign dependence, boosting supply security, jobs, andease of business.
+
+• Itreplaced the outdatedMerchant Shipping Act, 1958,aligning India’s maritime laws withInternational Maritime Organization (IMO) conventionsforclarity and ease of compliance.
+• It aims to enhancesea safety standards, emergency response, environmental protection, andseafarer welfare, whilepromoting Indian shipping tonnageand India’s global maritime reputation.
+• It authorizes thecentral government to detain vesselswithoutnationality or legal flag rightsin Indian waters, boostingmaritime securitywith a future-ready legal framework supporting India’s economic and trade ambitions.
+
+• It replaced theIndian Carriage of Goods by Sea Act, 1925and adopted the internationally acceptedHague-Visby Rules (1924)and its amendments, setting aglobal standard for maritime trade.TheHague-Visby Rules, 1924governsea carriage of goods, outliningcarrier and shipper rightsandliability for cargo loss or damage.
+• It regulatesBills of Lading, documents detailing goods’ type, quantity, condition, and destination to enhance transparency and shipping efficiency.
+• Empowers the Central Governmentto issue directions and amend rules on Bills of Lading, promoting ease of business and aligning India’s laws with global standards and trade agreements.
+
+• TheHague-Visby Rules, 1924governsea carriage of goods, outliningcarrier and shipper rightsandliability for cargo loss or damage.
+
+
+What is the State of India’s Maritime Sector?
+
+
+• State of India’s Maritime Sector:India is the16thlargest maritime nation, handling95% of trade by volumeand70% by valuethrough12 major and 200+ minor portson key global shipping routes.
+• Capacity and Fleet Growth:Major ports’ cargo-handling capacity grew by87% (2014–24)to1,629.86 million tonnes, with819.22 million tonnes handled in FY24; the fleet comprises1,530 registered ships.
+• Global Rankings:India ranks38thin theWorld Bank’s Logistics Performance Index 2023, while being the3rdlargest ship recycler globallywith around30% market share, home to the largest ship-breaking yard atAlang.
+• Shipbuilding and Policy Initiatives:Despite lagging in shipbuilding, initiatives like theNew Shipbuilding and Repair Policy, along with100% FDI(under the automatic route for port and harbour construction and maintenance projects), tax holidays, and infrastructure upgrades, aim to boost domestic capacity and have helped raise exports toUSD 451 billion in FY23.
+
+
+Government Initiatives in India’s Maritime Sector
+
+
+• One Nation-One Port Process (ONOP)
+• Sagar Ankalan – Logistics Port Performance Index (LPPI) 2023-24
+• Bharat Global Ports Consortium
+• MAITRI Platform (Master Application for International Trade and Regulatory Interface)
+• National Centre of Excellence in Green Port & Shipping (NCoEGPS)
+• Maritime India Vision 2030
+• Green Tug Transition Program (GTTP)
+
+Read More:Challenges in India’s Maritime Sector
+
+• Measures can India Take to Strengthen its Maritime Infrastructure
+
+
+UPSC Civil Services Examination, Previous Year’s Question (PYQs)
+
+
+
+Prelims
+
+
+Q. Consider the following in respect of Indian Ocean Naval Symposium (IONS): (2017)
+
+• Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy.
+• IONS is a voluntary initiative that seeks to increase maritime co-operation among navies of the littoral states of the Indian Ocean Region.
+
+Which of the above statements is/are correct?
+
+Q. With reference to ‘Indian Ocean Rim Association for Regional Cooperation (IOR-ARC)’, consider the following statements: (2015)
+
+• It was established very recently in response to incidents of piracy and accidents of oil spills.
+• It is an alliance meant for maritime security only.
+
+Which of the statements given above is/ are correct?
+
+
+Mains:
+
+
+Q.Defining blue revolution, explain the problems and strategies for pisciculture development in India. (2018)
+
+
+Facts for UPSC Mains
+
+
+• GS Paper - 2
+• Government Policies & Interventions
+• GS Paper - 3
+• Disaster Management
+
+
+Why in News?
+
+
+Climate changeis increasing severefloods,making resilience vital. Global best practices such asTanzania's Msimbazi Basin Projectshows how nature-based solutions and modern infrastructure can reduce risks and strengthen climate resilience,offering lessons for India’s flood management strategies.
+
+
+What are the Leading Global Best Practices in Flood Risk Management?
+
+
+• Tanzania’s Msimbazi Basin Development Project:A World Bank-funded project inDar es Salaamaims to reduce flooding by dredging the river, improving drainage, and upgrading infrastructure.It also relocates vulnerable residents and converts floodplains into green, climate-resilient areas.
+• Netherlands’s Floating Homes:Built withconcrete and glass, these flood-resistant homes float during floods, preventing water intrusion. Solar panels and heat exchangers provide continuous power.
+• Vienna’s Flood Protection System:In 1969,Vienna built a 21-km flood relief channel parallel to the Danube River.This channel absorbs excess floodwater, relieving pressure on the main river, and activates only when needed to protect the city.
+• China’s Sponge Cities:The"Sponge Cities"utilize nature-based solutions likepermeable surfaces and wetlands to absorband store rainwater, mimicking Earth's natural water absorption, unlike traditional cities that rapidly drain water via hard surfaces.
+• Denmark’s Green Climate Screen:A rainwater system channels water from gutters to mineral wool behind willow panels, absorbing moisture naturally.Excess water flows to planters or green spaces, reducing flood risks without costly infrastructure or energy use.
+• Texas-Harnessing AI and Satellite Imagery:TheUniversity of Arizona and Google's Flood Hub use AI and satellite data to create detailed flood mapsand provide 7-day forecasts, improving flood justice and global preparedness.
+
+• It also relocates vulnerable residents and converts floodplains into green, climate-resilient areas.
+
+• This channel absorbs excess floodwater, relieving pressure on the main river, and activates only when needed to protect the city.
+
+• Excess water flows to planters or green spaces, reducing flood risks without costly infrastructure or energy use.
+
+
+How Vulnerable is India to Flood Risks?
+
+
+• Extent of Flood-Prone Area:Out of India’s total 329 million hectares, over40 million hectares are vulnerable to floods.India leads globally with over 158 million slum dwellers in flood-prone areas.Also, India experienced5.4 million internal displacements in 2024 due to floods, storms,and other disasters- the highest number in 12 years.
+• Economic Impact:Analysis of the past two decades showsfloods cause around 63% of India’s annual economic losses.Monsoon patterns have become highly unpredictable, with sudden heavy rainfall causing floods and prolonged dry spells leading to drought.
+
+• India leads globally with over 158 million slum dwellers in flood-prone areas.
+• Also, India experienced5.4 million internal displacements in 2024 due to floods, storms,and other disasters- the highest number in 12 years.
+
+• Monsoon patterns have become highly unpredictable, with sudden heavy rainfall causing floods and prolonged dry spells leading to drought.
+
+
+What are the Key Strategies Adopted for Flood Risk Management in India?
+
+
+• In India,flood controlis primarily aState subject, thus, the responsibility for flood control lies largely with theState Governments, while theCentral Government's roleis moretechnical,advisory, andsupportive.
+• Engineering/Structural Measures:Interlinking of Rivers:Under theNational Perspective Plan (NPP),interlinking of rivers can help prevent floods by diverting excess water from flood-prone basins, such as theGanga–Brahmaputra–Meghna,to water-scarce regions.Thisredistributes water flow, reduces peak discharge in rivers during heavy rains,and minimizes the risk of overflowing banks and inundation in vulnerable areas.Reservoirs: Helpmoderate flood intensity by storing water during high discharge periods and releasing it after the peak flow.Their effectiveness depends on capacity and proximity to flood-prone areas.Detention Basins: These are natural depressions improved by constructing embankments and regulating water release. Examples include basins inRajasthanandBihar.Embankments: Prevent floodwaters from spilling over. These are widely used but may have long-term issues like riverbed elevation and erosion. Maintenance is crucial, especially in places likeAssamandBihar.Channelization: It involves controlling river courses and improving hydraulic conditions to prevent flooding.Dredginganddesiltinghelp rivers carry floodwaters efficiently.Diversion of Flood Waters:Diversion channelsand spillways help direct floodwaters away from vulnerable areas.Examples include theKrishna-Godavari Drainage SchemeandThottapally SpillwayinKerala.
+• Administrative/Non-Structural Measures:Flood Forecasting and Warning: TheCentral Water Commissionprovides real-time flood forecasts, which help authorities evacuate people and property to safer areas.Flood Plain Zoning: Involves designating areas prone to flooding and regulating development in these regions to minimize flood damage.Flood Proofing: This involves raising settlements above the flood levels, particularly in areas likeUttar Pradesh,West Bengal, andAssam.
+
+• Interlinking of Rivers:Under theNational Perspective Plan (NPP),interlinking of rivers can help prevent floods by diverting excess water from flood-prone basins, such as theGanga–Brahmaputra–Meghna,to water-scarce regions.Thisredistributes water flow, reduces peak discharge in rivers during heavy rains,and minimizes the risk of overflowing banks and inundation in vulnerable areas.
+• Reservoirs: Helpmoderate flood intensity by storing water during high discharge periods and releasing it after the peak flow.Their effectiveness depends on capacity and proximity to flood-prone areas.
+• Detention Basins: These are natural depressions improved by constructing embankments and regulating water release. Examples include basins inRajasthanandBihar.
+• Embankments: Prevent floodwaters from spilling over. These are widely used but may have long-term issues like riverbed elevation and erosion. Maintenance is crucial, especially in places likeAssamandBihar.
+• Channelization: It involves controlling river courses and improving hydraulic conditions to prevent flooding.Dredginganddesiltinghelp rivers carry floodwaters efficiently.
+• Diversion of Flood Waters:Diversion channelsand spillways help direct floodwaters away from vulnerable areas.Examples include theKrishna-Godavari Drainage SchemeandThottapally SpillwayinKerala.
+
+• Thisredistributes water flow, reduces peak discharge in rivers during heavy rains,and minimizes the risk of overflowing banks and inundation in vulnerable areas.
+
+• Examples include theKrishna-Godavari Drainage SchemeandThottapally SpillwayinKerala.
+
+• Flood Forecasting and Warning: TheCentral Water Commissionprovides real-time flood forecasts, which help authorities evacuate people and property to safer areas.
+• Flood Plain Zoning: Involves designating areas prone to flooding and regulating development in these regions to minimize flood damage.
+• Flood Proofing: This involves raising settlements above the flood levels, particularly in areas likeUttar Pradesh,West Bengal, andAssam.
+
+
+Keywords for Mains
+
+
+• “River as Resource, Not Risk” :Restoring riverine ecosystems for flood control.
+• “Forecast to Forewarn”: Leveraging AI, satellite imagery, and hydrological modeling for early warning systems.
+• “Resilience is the New Development”– Growth that survives climate shocks.
+• “Communities at the Core”– Inclusive planning with local populations for resilience and early response.
+
+
+Conclusion
+
+
+Building flood resilience in India demands the3Fs- Forecasting, Financing, and Frontline Preparednessto shift from reactive relief to proactive risk reduction.
+
+Drishti Mains Question:
+
+Assess India’s reliance on structural flood control measures and highlight the importance of integrating nature-based solutions, drawing insights from global best practices.
+
+
+UPSC Civil Services Examination, Previous Years Questions (PYQs)
+
+
+
+Mains:
+
+
+Q.The interlinking of rivers can provide viable solutions to the multi-dimensional inter-related problems of droughts, floods, and interrupted navigation. Critically examine.(2020)
+
+Q.Account for the huge flooding of million cities in India including the smart ones like Hyderabad and Pune. Suggest lasting remedial measures.(2020)
+
+
+Important Facts For Prelims
+
+
+• Quick Facts For Prelims
+• GS Paper - 3
+• Environmental Pollution & Degradation
+
+
+Why in News?
+
+
+TheUShas directedNASAto prepare for theearly terminationof two critical satellites-OCO-2andOCO-3, which trackatmospheric carbon dioxide (CO2)and monitorcrop health.
+
+
+What is Orbiting Carbon Observatories (OCOs)?
+
+
+• About:TheOCOsare a series ofNASA’s Earth observation satellites designed toprovide crucial data fortracking CO2sources and sinks,and their impact onglobalclimate systems.Thefirst mission, OCO (2009), failed due to a launch vehicle fairing issue.However,the subsequent mission,OCO-2 (2014),was successfully launched, measuring atmosphericCO2, identifying its sources and sinks, and tracking crop health through the 'glow' ofplant photosynthesis.It operates in asun-synchronous polar orbitto observe any location at thesame time of day.OCO-3 (2019), installed in theISS,orbits Earth every 90 minutes, allowingobservations of the same location at multiple timesof day and providing complementary data to OCO-2.
+• Significance:OCO satellites provideglobal, high-resolution CO2data, trackingseasonal and regional variations.For decades,tropical rainforestswere considered theplanet's lungs, clearing vast amounts ofCO2. However, OCO-2 data revealed thatboreal forests (taiga),the coniferous forests in higher latitudes, play a significant role inCO2absorption.Additionally, OCO data showed that naturalcarbon sinkscan transform into carbon sources during events like droughts ordeforestation.By detecting light fromphotosynthesis, OCOsmap global plant growth,aidingclimate mitigationandpolicy formulation for emission reduction.
+
+• Thefirst mission, OCO (2009), failed due to a launch vehicle fairing issue.
+• However,the subsequent mission,OCO-2 (2014),was successfully launched, measuring atmosphericCO2, identifying its sources and sinks, and tracking crop health through the 'glow' ofplant photosynthesis.It operates in asun-synchronous polar orbitto observe any location at thesame time of day.
+• OCO-3 (2019), installed in theISS,orbits Earth every 90 minutes, allowingobservations of the same location at multiple timesof day and providing complementary data to OCO-2.
+
+• It operates in asun-synchronous polar orbitto observe any location at thesame time of day.
+
+• For decades,tropical rainforestswere considered theplanet's lungs, clearing vast amounts ofCO2. However, OCO-2 data revealed thatboreal forests (taiga),the coniferous forests in higher latitudes, play a significant role inCO2absorption.
+• Additionally, OCO data showed that naturalcarbon sinkscan transform into carbon sources during events like droughts ordeforestation.
+• By detecting light fromphotosynthesis, OCOsmap global plant growth,aidingclimate mitigationandpolicy formulation for emission reduction.
+
+
+About CO2& Global Carbon Cycle
+
+
+• About: CO2is a majorgreenhouse gas, trapping heat that would otherwise escape into space, and is essential for life andmaintaining Earth’s atmospheric balance.
+• Sources of CO2: Fossil fuel combustion, respiration, deforestation, andorganic decay.
+• Sinks of CO2: Vegetation, forests, and oceans, which absorb roughlyhalf of human-produced CO2.
+• Global Carbon Cycle:Theglobal carbon cycleis theexchange of carbonbetween theatmosphere, oceans, land, and fossil fuels, occurring overseconds(photosynthesis) tomillennia(fossil fuel formation).
+
+
+UPSC Civil Services Examination, Previous Year Questions (PYQs)
+
+
+
+Prelims
+
+
+Q1. In the context of mitigating the impending global warming due to anthropogenic emissions of carbon dioxide, which of the following can be the potential sites for carbon sequestration? (2017)
+
+• Abandoned and uneconomic coal seams
+• Depleted oil and gas reservoirs
+• Subterranean deep saline formations
+
+Select the correct answer using the code given below:
+
+(a) 1 and 2 only(b) 3 only(c) 1 and 3 only(d) 1, 2 and 3
+
+Q2. What is/are the advantage/advantages of zero tillage in agriculture? (2020)
+
+• Sowing of wheat is possible without burning the residue of previous crop.
+• Without the need for nursery of rice saplings, direct planting of paddy seeds in the wet soil is possible.
+• Carbon sequestration in the soil is possible.
+
+Select the correct answer using the code given below:
+
+(a) 1 and 2 only(b) 2 and 3 only(c) 3 only(d) 1, 2 and 3
+
+
+Important Facts For Prelims
+
+
+• Quick Facts For Prelims
+• GS Paper - 2
+• Federalism
+• Separation of Powers
+• Central Sector Schemes
+• Government Policies & Interventions
+
+
+Why in News?
+
+
+TheMinister of State for MoSPIlaid out detailed provisions of theRevisedMember of Parliament Local Area Development Scheme (MPLADS)Guidelines 2023in theParliament,for its effective utilization.
+
+
+What is the MPLADS Scheme?
+
+
+• About: MPLADis aCentral Sector Scheme, launched in1993, which enablesMember of Parliament (MPs)torecommend developmental worksin theirconstituencies,focusing ondurable community assetsbased on local needs.Rajya SabhaMPsmay recommendworks in any district(s) of their state of election,whilenominated MPscan chooseany district(s) in any one state of the country.
+• Implementation:Thestate nodal department supervises the scheme, whiledistrict authoritiesare responsible forproject sanction, fund allocation and execution.
+• Funding Allocation:Each MP is allocatedRs 5 crore per yearsince 2011-12, released by theMinistry of Statistics and Program Implementation (MoSPI)to district authorities intwo installments of Rs 2.5 crore.This fund isnon-lapsableandcan be carried forward if not utilisedin a given year.MPs must allocate aminimum of 15% and 7.5%of their funds tocreate assetsforScheduled Castes (SCs)andScheduled Tribes (STs),respectively.
+• Special Provisions:MPs can spend up toRs 25 lakh a yearoutside their constituency or stateon projects thatpromote national unity, and up toRs 1 croreanywhere in India forrelief after severe natural calamities.
+• Convergence with Other Schemes:Funds can be converged withSwachh Bharat Mission (SBM),MGNREGSforasset creationor linked toKhelo Indiaforsports infrastructure.
+• Eligible Works:Funds can createimmovable assetsongovernment landandmovable assetsforgovernment-owned/controlled or aided institutions.Support is allowed onregistered social welfare society land(≥3 years),excluding MP/family involvement.Funds can also be used forBar Association buildingsoncourt premises, butnot for recurring expenses.
+
+• Rajya SabhaMPsmay recommendworks in any district(s) of their state of election,whilenominated MPscan chooseany district(s) in any one state of the country.
+
+• This fund isnon-lapsableandcan be carried forward if not utilisedin a given year.
+• MPs must allocate aminimum of 15% and 7.5%of their funds tocreate assetsforScheduled Castes (SCs)andScheduled Tribes (STs),respectively.
+
+• Support is allowed onregistered social welfare society land(≥3 years),excluding MP/family involvement.
+• Funds can also be used forBar Association buildingsoncourt premises, butnot for recurring expenses.
+
+
+What is the Monitoring Mechanism Under MPLAD Scheme?
+
+
+Ministry of Statistics and Programme Implementation (MoSPI)
+
+Monitorsfund flow, conducts annual reviews, publishes progress reports, and ensuresCAG-approved audits.
+
+Reviews project implementationand manages audit processes.
+
+Constitutemonitoring committees, inspectat least 1% of works annually,and commissionthird-party auditsfor high-value projects.
+
+• State/UT Governments are required tofully delegate technical, financial, and administrative sanction powersto theImplementing District Authorityfor expeditious execution of MP-recommended projects.
+
+Inspect a minimum of 10% of works each yearand maintain photographic documentation.
+
+Implementing Agencies
+
+Conductsite inspections and ensure 100% verificationof completed works.
+
+
+UPSC Civil Services Examination, Previous Year Question (PYQ)
+
+
+
+Prelims
+
+
+Q. With reference to the funds under the Members of Parliament Local Area Development Scheme (MPLADS), which of the following statements are correct? (2020)
+
+• MPLADS funds must be used to create durable assets like physical infrastructure for health, education, etc.
+• A specified portion of each MP’s fund must benefit SC/ST populations.
+• MPLADS funds are sanctioned on a yearly basis and the unused funds cannot be carried forward to the next year.
+• The district authority must inspect at least 10% of all works under implementation every year.
+
+Select the correct answer using the code given below:
+
+
+Rapid Fire
+
+
+• Rapid Fire CA
+• Quick Facts For Prelims
+• GS Paper - 2
+• Effect of Policies & Politics of Countries on India's Interests
+
+A peace agreement brokered by the US has been signed betweenArmenia and Azerbaijan,marking a significant step toward resolving the longstanding conflict overNagorno-Karabakh.
+
+• Peace Deal:Both countries pledged to respect each other's territorial integrity, ending nearly four decades of conflict. The agreement includes mutualrelinquishment of territorial claims, a ban on the use of force, and adherence to international law.
+• US Role and Strategic Importance:The US gained exclusive rights to develop the'Trump Route for International Peace and Prosperity'transit corridor in the South Caucasus.
+• Nagorno-Karabakh Conflict:Nagorno-Karabakh is a mountainous, landlocked region in theSouth Caucasus(The Caucasus is a mountain region between theBlack and Caspian Seas,spanningRussia, Georgia, Azerbaijan, and Armenia).After the Russian Empire’s collapse in 1917,Armenia and Azerbaijan both claimed Nagorno-Karabakh,causing lasting tensions. The 1994 ceasefire left Nagorno-Karabakh underArmenian-backed control(but internationally recognised as part of Azerbaijan).Azerbaijan reclaimed control in 2023 after a military offensive, displacing  thousands of ethnic Armenians.
+• India’s Stance:India supports the peace deal as it sees Armenia and Azerbaijan as part of theInternational North-South Transport Corridor (INSTC),a key project for India's trade routes connecting India to Russia.Additionally,Indiahas aFriendship and Cooperation Treaty with Armenia (1995).
+
+• After the Russian Empire’s collapse in 1917,Armenia and Azerbaijan both claimed Nagorno-Karabakh,causing lasting tensions. The 1994 ceasefire left Nagorno-Karabakh underArmenian-backed control(but internationally recognised as part of Azerbaijan).
+• Azerbaijan reclaimed control in 2023 after a military offensive, displacing  thousands of ethnic Armenians.
+
+• Additionally,Indiahas aFriendship and Cooperation Treaty with Armenia (1995).
+
+
+Rapid Fire
+
+
+• Rapid Fire CA
+• Quick Facts For Prelims
+• GS Paper - 2
+• Government Policies & Interventions
+• Welfare Schemes
+
+TheUnion Cabinetapprovedbudgetary supportto public sectorOil Marketing Companies (OMCs)tocover their losses from selling LPG cylinders below international pricesin FY 2024-25.
+
+• It alsocontinued the targeted LPG subsidy (throughPratyaksh Hastantarit Labh (PAHAL)DBT scheme)ofRs 300 per 14.2-kg cylinderunder thePradhan Mantri Ujjwala Yojana (PMUY)for up to 9 refills per year  for FY 2025-26.
+
+
+Pradhan Mantri Ujjwala Yojana (PMUY)
+
+
+• About: PMUYwas launched in2016by theMinistry of Petroleum and Natural Gasto provideclean cooking fuel ( and removing traditional firewood & coal),specificallyLPG,torural and economically disadvantaged households.
+• Ujjwala 2.0:UnderUjjwala 2.0(Phase 2),special provisions allow migrant families to obtain LPG connectionsusing self-declaration instead of requiring Proof of Address or Ration Cards.
+• Eligibility:Women aged 18+from householdswithout existing LPG connections, belonging to categories such asSC/ST,PM Awas Gramin,Most Backward Classes,AAY,tribal groups,forest dwellers,island residents,SECC-listed households, or otherpoor families.
+• Key Benefits: Beneficiary householdsreceivesubsidy for cooking gas cylinders.This has led toimproved women's healthby reducing indoor air pollution, decreased women’s drudgery,environmental protectionthroughless deforestation, and enhanced nutritiondue toeasier cooking with clean fuel.
+• Achievements: As of July 2025, over10.33 crore PMUY connectionshave been issued nationwide.Theaverage per capita LPG consumptionamong PMUY beneficiaries hasrisen around 49%between2019 & 2024reflecting increased LPG usage.
+
+• This has led toimproved women's healthby reducing indoor air pollution, decreased women’s drudgery,environmental protectionthroughless deforestation, and enhanced nutritiondue toeasier cooking with clean fuel.
+
+• Theaverage per capita LPG consumptionamong PMUY beneficiaries hasrisen around 49%between2019 & 2024reflecting increased LPG usage.
+
+
+Place In News
+
+
+• Rapid Fire CA
+• Quick Facts For Prelims
+• Miscellaneous
+
+The Dardanelles Strait has been temporarily closed to maritime traffic asforest firesravage north-western Turkey.
+
+• The Dardanelles Strait is avital narrow waterwayin northwestern Turkey. It separates theGallipoli Peninsula in Europefrom the mainland of Asia Minor.
+• It connects theAegean Sea to the Sea of Marmara,allowing for passage to theBlack Seavia theBosporus Strait.
+• The major ports located on the Dardanelles Strait areGallipoli, Eceabat, and Çanakkale,all situated within Turkey.
+• Historical Significance:The Dardanelles Strait has witnessed significant events, including thePersian invasion (480 BCE),andWorld War I’s Gallipoli Campaign.

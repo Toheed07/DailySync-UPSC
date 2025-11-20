@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Natural Farming in Himachal Pradesh",
+        "content": [
+            "Himachal Pradesh is witnessing a shift towards natural farming, reflecting India's push for sustainable agriculture.",
+            "Natural farming is a chemical-free method rooted in agroecological principles, emphasizing minimal human intervention and the avoidance of synthetic chemicals.",
+            "Key features include: no external chemical inputs, on-farm input generation, livestock integration, diversified cropping, soil health and biodiversity focus, and water efficiency.",
+            "Scientific and environmental benefits encompass enhanced soil organic carbon and fertility, promotion of biodiversity, reduced greenhouse gas emissions, and improved climate resilience.",
+            "Benefits for farmers include reduced cost of cultivation, improved farmer incomes, employment generation, health and food security, and women empowerment.",
+            "The National Mission on Natural Farming (NMNF) is a centrally sponsored scheme promoting chemical-free, ecosystem-based natural farming.",
+            "The NMNF targets 7.5 lakh hectares across 15,000 clusters and aims to facilitate 1 crore farmers with an incentive of Rs 4,000 per acre per year for two years.",
+            "Challenges include knowledge and skill gaps, behavioral resistance, state-level variability, policy convergence complexity, market linkage issues, and input availability.",
+            "Measures to scale natural farming include decentralized farmer clusters, strengthened knowledge networks, bio-input accessibility, market integration, agro-ecology based research, and digital monitoring."
+        ],
+        "importance": "important"
+    },
+    {
+        "title": "PM GatiShakti National Master Plan",
+        "content": [
+            "The PM GatiShakti National Master Plan is a Rs 100 lakh crore initiative launched in October 2021 for infrastructure development over five years.",
+            "It promotes integrated development across seven economic drivers: railways, roads, ports, waterways, airports, mass transport, and logistics.",
+            "The objective is to cut logistics costs through integrated infrastructure planning.",
+            "Key features include a geospatial data platform integrating over 200 layers of data, targeting economic hubs, and tech-driven planning using advanced spatial tools.",
+            "The plan targets aviation infrastructure (200 new airports), renewable energy (225 GW by FY25), power grid expansion, national highway network expansion, and rail cargo capacity growth.",
+            "Achievements include the integration of 44 Central Ministries and 36 States/UTs, evaluation of over 200 projects, social sector development, and improvement in India's World Bank Logistics Performance Index ranking.",
+            "Challenges include bureaucratic silos, land and legal hurdles, operational data gaps, capacity and skill shortages, and kinetic action delays."
+        ],
+        "importance": "absolutely_important"
+    },
+    {
+        "title": "IndiaAI Mission - Safe & Trusted AI",
+        "content": [
+            "The Ministry of Electronics and IT (MeitY) has selected five pioneering projects under the IndiaAI Mission's Safe & Trusted AI pillar.",
+            "IndiaAI aims to democratize AI benefits and ensure the ethical and responsible use of AI.",
+            "Projects include: Saakshya (deepfake detection), AI Vishleshak (deepfake detection), Real-Time Voice Deepfake Detection, Evaluating Gender Bias in Agricultural LLMs, and Anvil (penetration testing).",
+            "The seven pillars of the IndiaAI Mission aim to ensure responsible and safe AI deployment in India.",
+            "Key pillars include IndiaAI Compute, Application Development Initiative, AIKosh, IndiaAI Foundation Models, IndiaAI FutureSkills, IndiaAI Startup Financing, and Safe and Trusted AI.",
+            "The Safe and Trusted AI pillar focuses on machine unlearning, bias mitigation, privacy-preserving ML, explainability, auditing, and governance testing."
+        ],
+        "importance": "important"
+    },
+    {
+        "title": "National Red List Assessment Initiative",
+        "content": [
+            "India launched the five-year National Red List Assessment Initiative (2025-2030) to evaluate the conservation status of its flora and fauna.",
+            "The initiative aims to systematically identify and protect India\u2019s most vulnerable species, aligned with IUCN standards and global environmental commitments.",
+            "It will evaluate the extinction risk of approximately 11,000 species, including 7,000 flora and 4,000 fauna, to develop a National Red List.",
+            "Implementing bodies include the Union Ministry of Environment, Forest and Climate Change, Botanical Survey of India (BSI), Zoological Survey of India (ZSI), and the Wildlife Institute of India (WII).",
+            "It fulfills Target 4 of the Kunming-Montreal Global Biodiversity Framework (KM-GBF), which calls for halting species extinction and protecting genetic diversity.",
+            "Of the assessed fauna, 13.4% are threatened, 289 species are near threatened, and 13.8% are data deficient.",
+            "India exhibits high endemism, with 79% of amphibians and 54.9% of reptiles found nowhere else in the wild."
+        ],
+        "importance": "important"
+    },
+    {
+        "title": "National Household Income Survey (NHIS) 2026",
+        "content": [
+            "The Ministry of Statistics & Programme Implementation (MoSPI) plans to launch the National Household Income Survey (NHIS) in February 2026.",
+            "NHIS 2026 will be the first-ever pan-India household income survey, aiming to enable inter-personal income comparisons.",
+            "The survey will provide detailed analysis of income sources and address a long-standing data gap in India\u2019s socio-economic statistics.",
+            "NHIS 2026 aims to capture living conditions, income and expenditure patterns, and provide critical data for rebasing the Consumer Price Index (CPI), preparing National Accounts, and conducting poverty and hardship analysis.",
+            "The National Statistics Office (NSO) under MoSPI has conducted large-scale household surveys since 1950, including the National Sample Survey (NSS).",
+            "Countries like the US, Canada, UK, Sri Lanka, Bangladesh, China, and Malaysia already collect household income data through surveys, and NHIS will align India with these practices."
+        ],
+        "importance": "moderately_important"
+    },
+    {
+        "title": "Information Technology Act, 2000",
+        "content": [
+            "The Information Technology Act, 2000 is the primary legislation in India governing cyber activities.",
+            "It legalizes electronic records and digital signatures.",
+            "It establishes CERT-In as a nodal agency for cybersecurity.",
+            "Key provisions include Section 69A (government can block public access), Section 79 (safe harbour protection for intermediaries), and Section 79(3)(b) (removal of safe harbour).",
+            "Rule 3(1)(d) of the IT Rules, 2021 specifies due diligence requirements for intermediaries.",
+            "Section 66A was struck down by the Supreme Court in Shreya Singhal vs. Union of India (2015)."
+        ],
+        "importance": "important"
+    }
+]

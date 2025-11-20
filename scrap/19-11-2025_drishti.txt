@@ -1,0 +1,592 @@
+19 Nov 202541 min readDaily SaraanshHomefilterHide Menu
+
+
+Facts for UPSC Mains
+
+
+• GS Paper - 2
+• Government Policies & Interventions
+• GS Paper - 3
+• Robotics
+• Artificial Intelligence
+• Scientific Innovations & Discoveries
+• IT & Computers
+
+
+Why in News?
+
+
+Artificial Intelligence (AI)is set to drive India’snext phase of economic growth, withNITI Aayogestimatingthat AI could addUSD 500–600 billion to GDP by 2030.
+
+
+What does NITI Aayog Reports Say about AI’s Impact on the Indian Economy??
+
+
+• Roadmap for Job Creation in the AI Economy:This report presents India’s strategic plan to address the disruptions caused byAI, aiming to position the country as the global hub forAI-driven workforce development.It introduces the3W frameworkfor AI and outlines its potential impact onwork,workers, and theworkforce.
+
+• It introduces the3W frameworkfor AI and outlines its potential impact onwork,workers, and theworkforce.
+
+• Roadmap on AI for Inclusive Societal Development:This report focuses on utilizingcutting-edge technologiesto transitioninformal workersinto a moreformal,empowered, andfuture-ready labor force.It emphasizesAI’s potentialto enhanceinclusivityand fostersustainable development.
+• AI as Both a Challenge and Opportunity for India:AI presents bothchallengesandopportunitiesfor India’s economy.While it disrupts traditionalformal jobs, it simultaneously provides a unique opportunity toformalizeand significantly improve theproductivityof the vastinformal workforce.
+
+• It emphasizesAI’s potentialto enhanceinclusivityand fostersustainable development.
+
+• While it disrupts traditionalformal jobs, it simultaneously provides a unique opportunity toformalizeand significantly improve theproductivityof the vastinformal workforce.
+
+
+What Potential does AI Hold for India's Economic Transformation?
+
+
+• Job Creation in New, High-Value Sectors:India could createup to 4 million new jobs by 2031, especially in tech and customer service, with jobs ranging fromPrompt EngineerstoQuantum ML Engineersandadvanced AI model developers.
+• Enhanced Global Economic Standing:India can become the“AI workforce capital of the world”by shifting from traditional IT services toAI-driven work and innovation, using its strong digital talent base.The proposedIndia AI Talent Missioncan also helpreverse brain drain, similar to efforts inSingapore and the UAE.
+• New Revenue Pools and Industries:It opens new avenues likeAI-driven drug discoveryandsmart manufacturing, while its convergence withQuantum Computing,IoT, and5Gis creating opportunities insmart citiesandlogistics optimization.
+• Productivity Gains:AI boosts efficiency and global competitiveness, delivering10–20% productivity gainsin software development and reducing costs in customer service throughchatbotsandreal-time translation.
+• Foundation for a Future-Ready Economy:Creating an open-sourceIndia AI Commonswill provide datasets, models, and benchmarks to democratize innovation, while India’sAI Compute Gridwill offer shared high-performance computing access to boost local R&D and retain talent.
+
+• The proposedIndia AI Talent Missioncan also helpreverse brain drain, similar to efforts inSingapore and the UAE.
+
+
+What are the Challenges Posed by AI to the Indian Economy?
+
+
+• Job Losses in the Tech Sector:As per Niti Aayog, theIT services workforcemay drop from7.5–8 million (2023)to6 million by 2031.Overall,60% of formal jobsin India face automation risk by 2030, with theIT and BPO sectorsespecially vulnerable due to routine, scalable tasks.
+• Education System Gaps:India faces gaps incomputer science education, with limited access and outdated AI curricula that miss emerging concepts likeRetrieval Augmented Generation (RAG).These weaknesses contribute tolow research output, with AI patent shares dropping tounder 5%, and fewer than500 AI-related PhDsproduced each year.
+• AI Talent Supply-Demand Gap:AI talent demand is rising at25% CAGR(from800,000 to 1.25 million by 2026), while supply grows at only15% CAGR.India also facesnet negative talent migration, losing top AI researchers at a rate of1.55 per 10,000.
+• Broader Systemic Risks:India riskslosing competitiveness and strategic groundto countries like China, Saudi Arabia, the UAE, and Singapore, while socially, limited protection for400 million informal workersand uneven impacts across regions and groups create major challenges.
+
+• Overall,60% of formal jobsin India face automation risk by 2030, with theIT and BPO sectorsespecially vulnerable due to routine, scalable tasks.
+
+• These weaknesses contribute tolow research output, with AI patent shares dropping tounder 5%, and fewer than500 AI-related PhDsproduced each year.
+
+• India also facesnet negative talent migration, losing top AI researchers at a rate of1.55 per 10,000.
+
+
+What Recommendations has NITI Aayog Made for the Sustainable Use of AI in India?
+
+
+• Embed AI in the Education System:IntegrateAI learningfrom schools, expandAI-focused higher education, and increaseAI PhD fellowshipsto strengthen research, while ensuring curricula stay updated throughfaculty–industry collaboration.
+• Become a Global AI Talent Magnet:Offercompetitive grants,high salaries, andpriority accessto thenational computer gridto retain and bring back Indian AI researchers, and introduce a dedicatedAI talent visato attractglobal experts.
+• Building an AI Skilling Engine:Launchnational reskilling programsby scalingNAPS (National Apprenticeship Promotion Scheme)andPMKVY (Pradhan Mantri Kaushal Vikas Yojana)for widespreadAI literacy, and introduceflexible AI master's and doctoral pathwaysfor working professionals to upgrade intohigh-skill roles.
+• Establishing India Open-source AI Commons:Create acentral AI commonswith high-qualitydatasets,models, andbenchmarks, incentivizedata contributionfrom universities and ministries, and ensuretrust and transparencythrough reliablevalidation tools.
+• Federated National Compute & Innovation Grid:Consolidate fragmentedHPC resourcesinto a unifiedcompute grid, and providetiered, affordable accessfor students, startups, and researchers to support advancedmodel trainingand reduce dependence on foreign infrastructure.
+
+
+Conclusion
+
+
+AI offers India atransformative economic opportunity—NITI Aayog estimatesUSD 500–600 billion GDP boost by 2030—if paired withreskilling,stronger AI education,robust data governance,open-source commons, andnational computational infrastructure.Strategic policy,inclusive skilling, andresearch investmentsare essential to mitigatejob displacementandregional inequalityforsustainable growth.
+
+Drishti Mains Question
+
+Q.Artificial Intelligence is a double-edged sword for the Indian economy. Critically analyze this statement and suggest a strategic roadmap for India to become a global leader in inclusive AI.
+
+
+Frequently Asked Questions (FAQs)
+
+
+1. What is the projected contribution of AI to India’s GDP by 2030?
+
+NITI Aayog estimates that AI could contribute USD 500-600 billion to India’s GDP by 2030 through productivity and innovation gains.
+
+2. How many jobs could AI create in India by 2031?
+
+AI could generate up to 4 million new jobs by 2031, particularly in tech, customer service, and high-value AI roles.
+
+3. How does AI pose a risk to India's formal job sector?
+
+NITI Aayog highlights a risk of large-scale job displacement, with the IT services workforce potentially shrinking from 7.5-8 million to 6 million by 2031, affecting 60% of formal sector jobs.
+
+
+UPSC Civil Services Examination Previous Year Question (PYQ)
+
+
+
+Prelims
+
+
+Q.With the present state of development, Artificial Intelligence can effectively do which of the following?(2020)
+
+• Bring down electricity consumption in industrial units
+• Create meaningful short stories and songs
+• Disease diagnosis
+• Text-to-Speech Conversion
+• Wireless transmission of electrical energy
+
+Select the correct answer using the code given below:
+
+(a) 1, 2, 3 and 5 only
+
+
+Mains
+
+
+Q.Introduce the concept of Artificial Intelligence (AI). How does Al help clinical diagnosis? Do you perceive any threat to privacy of the individual in the use of AI in healthcare?(2023)
+
+
+Facts for UPSC Mains
+
+
+• GS Paper - 3
+• Various Security Forces & Agencies & Their Mandate
+• GS Paper - 2
+• Gender Equality
+
+
+Why in News?
+
+
+TheDirectorate General of Territorial Armyhas decided toinduct women soldiersintoTerritorial Army (TA) Home & Hearth (H&H) Infantry battalionsfor thefirst time,marking a major step in expandingwomen’s roles in the defence forces.
+
+
+What is the Territorial Army (TA)?
+
+
+• About:The Territorial Army (TA) is apart-time voluntary military force that supports and augments the Regular Indian Army.It is based on aCitizen Soldiers’ army (‘Sons of Soil’) conceptand officers undergoAnnual Training on basic military skills.It functions under theTerritorial Army Act, 1948and allows trained civilian volunteers to serve in uniform while continuing their regular professions.
+• Background:The roots of the TA trace back to theVolunteer Forces of 1857formed after the First War of Independence in 1857.TheIndian Defence Force Act of 1917made universities raise defence units, withNetaji Subhas Chandra BoseandJawaharlal Nehrujoining the Calcutta University Corps in 1918.The Force had two parts, theEuropean Auxiliary Forceand theIndian Branch, which later became theIndian Territorial Force.After Independence, the Territorial Army Act, 1948 was passed, The TA was formally inaugurated on9thOctober 1949 by first Indian Governor GeneralShri C Rajagopalachari( nowcelebrated as Raising Day of Territorial Army).
+• Evolution:The TA began with many unit types, but most were later merged or disbanded.It now includes Infantry Battalions, Home & Hearth units in J&K and the North-East, Ecological Battalions, Engineer units for Line of Control fencing, departmental units like Railway, and the Composite Eco Task Force for theNational Mission for Clean Ganga.
+• Significance: Relieves the Regular Armyfrom static duties so that full-time soldiers can focus on core combat tasks.Assists incounter-insurgency and counter-terrorism operations, especially through TA Home & Hearth battalions in J&K and the North-East.Provides support duringnatural disasters, industrial unrest, and restoration of essential services.Plays a major role inenvironmental protection, afforestation, and reversing land degradation through TA Eco Battalions.Acts as areserve forcecapable of being mobilised during national emergencies, war, and large-scale internal disturbances.Enhancescivil–military coordination, as members are civilians who bring diverse skills to national service.
+
+• It is based on aCitizen Soldiers’ army (‘Sons of Soil’) conceptand officers undergoAnnual Training on basic military skills.
+• It functions under theTerritorial Army Act, 1948and allows trained civilian volunteers to serve in uniform while continuing their regular professions.
+
+• TheIndian Defence Force Act of 1917made universities raise defence units, withNetaji Subhas Chandra BoseandJawaharlal Nehrujoining the Calcutta University Corps in 1918.The Force had two parts, theEuropean Auxiliary Forceand theIndian Branch, which later became theIndian Territorial Force.
+• After Independence, the Territorial Army Act, 1948 was passed, The TA was formally inaugurated on9thOctober 1949 by first Indian Governor GeneralShri C Rajagopalachari( nowcelebrated as Raising Day of Territorial Army).
+
+• The Force had two parts, theEuropean Auxiliary Forceand theIndian Branch, which later became theIndian Territorial Force.
+
+• It now includes Infantry Battalions, Home & Hearth units in J&K and the North-East, Ecological Battalions, Engineer units for Line of Control fencing, departmental units like Railway, and the Composite Eco Task Force for theNational Mission for Clean Ganga.
+
+• Assists incounter-insurgency and counter-terrorism operations, especially through TA Home & Hearth battalions in J&K and the North-East.
+• Provides support duringnatural disasters, industrial unrest, and restoration of essential services.
+• Plays a major role inenvironmental protection, afforestation, and reversing land degradation through TA Eco Battalions.
+• Acts as areserve forcecapable of being mobilised during national emergencies, war, and large-scale internal disturbances.
+• Enhancescivil–military coordination, as members are civilians who bring diverse skills to national service.
+
+
+What is the Significance of Inducting Women into Territorial Army H&H battalions?
+
+
+• The Territorial Armybegan commissioning women officers in 2019, allowing them to serve in Ecological Task Force units, oil sector TA units and the Railway Engineer Regiment.
+• With the positive experience gained, the Army has now decided to expand their roles further and is preparing to induct women soldiers intoHome & Hearth battalions,opening thedoor to wider operational responsibilities.
+• It expands operational opportunities for women, enhances human resources forinternal security and disaster response,and advances gender inclusion in India’s defence forces.
+
+
+Women in Defence Forces
+
+
+• Early Military Roles:Women first joined through theMilitary Nursing Service(1888)and later as doctors in theIndian Army Medical Corps(1958)with regular commissions.
+• Non-Medical Entry:In 1992, theWomen Special Entry Scheme (WSES)opened non-combat roles in branches like theArmy Education Corps, Signals, Intelligence, and Engineersfor Short Service Commission (SSC).Army Act, 1950restricted women’s roles, allowing them only in notified branches such asArmy Postal Service, Judge Advocate General’s (JAG) department, Army Education Corps (AEC), Ordnance Corps, and Service Corps, and Service Corps.
+• Short Service Commission (SSC):In 2005, the SSC system was introduced, offering a 14-year tenure to women officers and marking a more formalized career structure.
+• Permanent Commission Milestone:Women were first granted Permanent Commission in 2008 in limited branches like JAG and AEC.TheSupreme Court of India in2020 Babita Puniya judgment,mandatedPermanent Commission in all arms where SSC exists, enabling women to holdcommand roles.
+• Women in Combat Roles: IAF inducted women fighter pilots in 2016, making combat roles a permanent scheme in 2022.
+• Agnipath Scheme (2022):Women included asAgniveersacross theArmy, Navy, and Air Force, expanding soldier-level opportunities.
+• Current Representation:Women constituteabout 4% of the Army.Since 2022, the Navy has opened all branches, including submarines and aviation, to women officers, with several already serving onboard ships and in combat aviation roles.
+• Key Achievements: Col. Sofiya QureshiandWg Cdr. Vyomika Singhled roles inOperation Sindoor.Lt. Cdr. Dilna KandLt. Cdr. Roopa AcompletedNavika Sagar Parikrama II, a 25,600-nautical-mile global expedition.
+
+• Army Act, 1950restricted women’s roles, allowing them only in notified branches such asArmy Postal Service, Judge Advocate General’s (JAG) department, Army Education Corps (AEC), Ordnance Corps, and Service Corps, and Service Corps.
+
+• TheSupreme Court of India in2020 Babita Puniya judgment,mandatedPermanent Commission in all arms where SSC exists, enabling women to holdcommand roles.
+
+• Lt. Cdr. Dilna KandLt. Cdr. Roopa AcompletedNavika Sagar Parikrama II, a 25,600-nautical-mile global expedition.
+
+
+Conclusion
+
+
+The induction of women soldiers into the Territorial Army's Home & Hearth battalions marks a significant step towards gender inclusion in India's defense forces. This move reflects the ongoing evolution of women’s roles in India's armed forces, paving the way for greater equality and empowerment.
+
+Drishti Mains Question:
+
+Q.Breaking gender barriers in the armed forces is not only a question of equality, but also operational necessity. Discuss.
+
+
+Frequently Asked Questions (FAQs)
+
+
+1. What is the Territorial Army (TA)?
+
+The TA is a part-time voluntary military force under the Territorial Army Act, 1948, that supports and augments the Regular Indian Army while allowing civilians to serve part-time.
+
+2. When is Territorial Army Raising Day celebrated?
+
+Territorial Army Raising Day is observed every year on 9thOctober, marking its formal inauguration in 1949 by C. Rajagopalachari.
+
+3. Why is induction of women in TA significant?
+
+It expandsoperational opportunitiesfor women, enhances human resources for internal security and disaster response, and advancesgender inclusionin India’s defence forces.
+
+
+UPSC Civil Services Examination, Previous Year Questions (PYQs)
+
+
+
+Prelims
+
+
+Q.In the context of the Indian defence, what is ‘Dhruv’? (2008)
+
+(a) Aircraft-carrying warship
+
+(b) Missile-carrying submarine
+
+(c) Advanced light helicopter
+
+(d) Intercontinental ballistic missile
+
+
+Mains
+
+
+Q.What are the continued challenges for Women in India against time and space? (2019)
+
+
+Facts for UPSC Mains
+
+
+• GS Paper - 2
+• Issues Related to Women
+• Government Policies & Interventions
+• Aptitude
+
+
+Why in News?
+
+
+TheSupreme Courtissued notice in a case where awomanis accused of‘penetrative sexual assault’on aminor boyunderSection 3of thePOCSO Act, 2012.
+
+• The case has renewed debate on the Act’sgender neutrality, especially whether it coversfemale perpetratorsof child sexual abuse.
+
+
+What is the Protection of Children from Sexual Offences (POCSO) Act, 2012?
+
+
+• About:POCSO Act, 2012was enacted by the Ministry of Women and Child Development to address theheinous crimes of sexual abuse and exploitation of children.It was amended in 2019 that increasedpunishments, including thedeath penaltyforaggravated penetrative sexual assaultof achild.
+• Salient Features:
+• Gender Neutrality:TheActisgender-neutraland safeguardsall children, irrespective ofgender.Definition of a Child:It defines a child as any personbelow 18 years of age.Coverage of Abuse:TheActcoverspenetrative and non-penetrative assault,sexual harassment, andpornography. Offences areaggravatedif committed by someone intrust or authorityor against amentally ill child, andchild traffickingfor sexual purposes is alsopunishable.
+• Graded Punishments: Punishmentsrange from10 years to life imprisonmentforpenetrative sexual assaultand20 years to lifeforaggravated cases, with stricter terms if thechild is under 16.Use, possession, attempt, and abetmentof offences, includingchild pornography, are also punishable, with fines or imprisonment up to7 yearsdepending on severity and intent.
+• Judicial Process:TheActrequiresSpecial Courtsto try offences. It ensures that theevidence of the child is recorded within 30 days, and thetrial is completed within 1 year, wherever possible.
+• Scope and Overriding Effect:The POCSO Act has anoverriding effect over other lawsif there is inconsistency. It applies only tochild survivors and adult offenders, while cases of child-on-child offences or child-on-adult offences are governed by theJuvenile Justice Act, 2000.
+
+• It was amended in 2019 that increasedpunishments, including thedeath penaltyforaggravated penetrative sexual assaultof achild.
+
+• Definition of a Child:It defines a child as any personbelow 18 years of age.
+• Coverage of Abuse:TheActcoverspenetrative and non-penetrative assault,sexual harassment, andpornography. Offences areaggravatedif committed by someone intrust or authorityor against amentally ill child, andchild traffickingfor sexual purposes is alsopunishable.
+
+• Use, possession, attempt, and abetmentof offences, includingchild pornography, are also punishable, with fines or imprisonment up to7 yearsdepending on severity and intent.
+
+
+Does the POCSO Act, 2012 Uphold Gender Neutrality?
+
+
+• Statutory Interpretation:Section 3 ofPOCSOactdefinespenetrative sexual assaultusinggender-neutral termsand does not explicitly limit the offence to male perpetrators.The use of the pronoun‘he’in statutory language is governed bySection 13(1) of the General Clauses Act, 1897, which statesmasculine words include the feminineunless the context specifies otherwise.
+• Scope of Offences:The definition includesoral,digital, andobject-based penetration, which can be committed by individuals of any gender.Section 3(d)also criminalisesinducing a child to perform a sexual act on another person— expanding applicability.
+• Legislative Intent:TheMinistry of Women and Child Development, in a written response to a question in the Lok Sabha, stated unambiguously thatPOCSO ‘is a gender neutral Act’.TheStatement of Objects and Reasonsof thePOCSO Amendment Bill, 2019explicitly confirms that thePOCSO Act is gender-neutral.
+
+• The use of the pronoun‘he’in statutory language is governed bySection 13(1) of the General Clauses Act, 1897, which statesmasculine words include the feminineunless the context specifies otherwise.
+
+• Section 3(d)also criminalisesinducing a child to perform a sexual act on another person— expanding applicability.
+
+• TheStatement of Objects and Reasonsof thePOCSO Amendment Bill, 2019explicitly confirms that thePOCSO Act is gender-neutral.
+
+
+How can India Ensure Balanced Legal and Policy Frameworks for Child Protection?
+
+
+• Strengthening the Legal Framework:Resolvedefinitional gapsin the POCSO Act, 2012 especially regardinggender neutrality, to ensure uniform and fair application of the law.Additionally,harmonize POCSO, JJ Act, and BNSwhile introducingnuanced sentencing guidelinesthat balance stringency with reformative justice.
+• Robust Institutional Capacity:Mandatespecialized trainingfor all stakeholders and strengtheninfrastructure, including Special Courts and Forensic Science Laboratory (FSL) capacity, to ensure faster and child-sensitive case handling.
+• Proactive and Preventive Policies:Mandatestrict child protection policies, including annualPersonal Safety Education (PSE)for students. Use technology to enhance monitoring through anational child-protection database,data analytics, andsafe, anonymous reporting platformsfor children.
+• Address Digital Age Challenges:Strengthen responses toOnline Child Sexual Abuse and Exploitation (OCSAE)through updated protocols, specializedcyber cells, and collaboration withtech companiesto remove content and identify victims.
+
+• Additionally,harmonize POCSO, JJ Act, and BNSwhile introducingnuanced sentencing guidelinesthat balance stringency with reformative justice.
+
+
+Conclusion
+
+
+ThePOCSO Act, 2012isgender-neutral, protecting all children fromsexual abuse, harassment, and exploitation. Itsprovisions, intent, and judicial interpretationallow prosecution ofoffenders of any gender, ensuringjusticeand comprehensivechild protection.
+
+Drishti Mains Question
+
+Q.Discuss the significance of the POCSO Act, 2012 in safeguarding children from sexual offences in India.
+
+
+Frequently Asked Questions (FAQs)
+
+
+1. What is the POCSO Act, 2012?
+
+It is a gender-neutral law enacted to protect children under 18 from sexual abuse, harassment, and exploitation, with provisions for Special Courts and child-friendly trials.
+
+2. Is the POCSO Act applicable to female offenders?
+
+Yes, statutory interpretation and legislative intent confirm gender neutrality, allowing prosecution of both male and female perpetrators.
+
+3. How does the Act ensure speedy and child-friendly trials?
+
+Evidence recording within 30 days, trial completion within 1 year, in-camera proceedings, female officers for statements, and immediate rehabilitation via shelter homes or hospitals.
+
+
+UPSC Civil Services Examination Previous Year Question (PYQ)
+
+
+
+Prelims
+
+
+Q.Which of the following are envisaged by the Right against Exploitation in the Constitution of India?(2017)
+
+• Prohibition of traffic in human beings and forced labour
+• Abolition of untouchability
+• Protection of the interests of minorities
+• Prohibition of employment of children in factories and mines
+
+Select the correct answer using the code given below:
+
+
+Mains
+
+
+Q.Examine the main provisions of the National Child Policy and throw light on the status of its implementation. (2016)
+
+
+Important Facts For Prelims
+
+
+• Quick Facts For Prelims
+• GS Paper - 3
+• Monetary Policy
+• Banking Sector & NBFCs
+
+
+Why in News?
+
+
+Several banks are actively issuingTier II bondsto bolster theircapital adequacy ratios (CAR)as required underBasel III norms, with total issuances expected to reachRs 25,000 crorein FY2025–26.
+
+
+What are Tier II Bonds?
+
+
+• About:Tier II bondsaresubordinated debtinstruments banks issue toboost capitaland support operations. They count asTier II (supplementary) capitalunderBasel-IIIand help improve theCAR.CARindicates a bank’sfinancial strength, with a higher ratio providing a strongerbuffer against distress.CAR= (Eligible Capital ÷ Risk-Weighted Assets) × 100%.Tier II Bonds are different fromTier I Bondsas they strengthen a bank’ssupplementary capital, whereasTier I (AT1) Bondsstrengthen itscore capital (equity and retained earnings).
+• Key Features of Tier II Bonds:Maturity:They are typicallylong-term instrumentswith original maturities of at least5 years.Subordination:Tier II bondholdersare paid after alldepositors,senior debt holders, andgeneral creditorsin the event of aliquidation. However, they rank aboveequity holders.Coupon Payments:They pay regularinterest (coupons)and generally offerhigher coupon ratesthan senior bonds due tohigher risk.Call Options:MostTier II bondsinclude acall option, allowing the bank toredeem the bondsafter a specified period (e.g.,5 or 10 years).Loss Absorbency (Gone-Concern Capital):Tier I capital is considered"gone-concern" capital, meaning it is intended toabsorb lossesif a bank fails and is in the process of beingwound up.This is in contrast toTier I capital, which absorbs losses on a"going-concern"basis while the bank is stilloperational.
+• Issued By:Both public and private banks issueTier II bondsto meetregulatory capital requirements, supportbusiness expansion, and comply withCAR normswithout issuing new equity and diluting shareholders.
+• Investors in Tier II Bonds:Institutional investorssuch as insurance companies, pension funds, mutual funds, and hedge funds, as well asretail investorsthrough platforms or public issues, invest in Tier II bonds.
+
+• CARindicates a bank’sfinancial strength, with a higher ratio providing a strongerbuffer against distress.CAR= (Eligible Capital ÷ Risk-Weighted Assets) × 100%.
+• Tier II Bonds are different fromTier I Bondsas they strengthen a bank’ssupplementary capital, whereasTier I (AT1) Bondsstrengthen itscore capital (equity and retained earnings).
+
+• Maturity:They are typicallylong-term instrumentswith original maturities of at least5 years.
+• Subordination:Tier II bondholdersare paid after alldepositors,senior debt holders, andgeneral creditorsin the event of aliquidation. However, they rank aboveequity holders.
+• Coupon Payments:They pay regularinterest (coupons)and generally offerhigher coupon ratesthan senior bonds due tohigher risk.
+• Call Options:MostTier II bondsinclude acall option, allowing the bank toredeem the bondsafter a specified period (e.g.,5 or 10 years).
+• Loss Absorbency (Gone-Concern Capital):Tier I capital is considered"gone-concern" capital, meaning it is intended toabsorb lossesif a bank fails and is in the process of beingwound up.This is in contrast toTier I capital, which absorbs losses on a"going-concern"basis while the bank is stilloperational.
+
+• This is in contrast toTier I capital, which absorbs losses on a"going-concern"basis while the bank is stilloperational.
+
+
+What is the Difference Between Tier I and Tier II Bonds?
+
+
+Tier I Bonds (Commonly called Additional Tier 1 or AT1)
+
+Tier II Bonds (Subordinated Debt)
+
+To act as shock absorbers duringongoing stress. They are thefirst line of defenseafter equity.
+
+To act as a loss-absorbing buffer duringliquidation or winding up.
+
+Perpetual; they haveno maturity date. They are the most junior form of debt, just above equity.
+
+Have afixed maturity. They are senior to Tier I but junior to regular debt.
+
+Can be written down to zero or converted to equity if the bank'sCommon Equity Tier 1 (CET1) ratiofalls below a pre-specified level.
+
+Loss absorption typicallyonly happensduring the point ofnon-viability or liquidation, after Tier I is used.
+
+
+What are Basel Norms?
+
+
+• About:Basel Norms are a set of internationalbanking regulationsdeveloped by theBasel Committee on Banking Supervision (BCBS)to strengthen theglobal financial systemby ensuring that banks hold enoughcapitalto absorbunexpected losses.
+• Pillars of Basel Norms:The Basel framework rests onthree pillars:Pillar 1 – Minimum Capital Requirements:Banks must hold capital proportional to theirrisk-weighted assets (RWA), with riskier assets requiring more capital.Pillar 2 – Supervisory Review:Regulators assess each bank’sinternal risk processesand ensure capital staysabove minimum requirements.Pillar 3 – Market Discipline:Banks mustdisclosetheir risk profiles and capital levels to promotetransparencyand encourage prudent behavior through market scrutiny.
+• Evolution:Basel has evolved fromBasel I, II, III, and now IVto strengthen the banking system and respond to financial crises.Basel I (1988)introduced a capital measurement system focused oncredit riskandrisk-weighted assets, setting minimum capital requirements for banks.Basel II (2004)refined this by adding the three-pillar framework ofminimum capital,supervisory review, andmarket discipline.Basel III (2010), developed after the 2007–08 crisis, strengthened banks’capital base,liquidity, andleverage standards.Basel IV (2017)aims to tighten remaining gaps by makingRWA calculationsmore consistent across banks and limiting the misuse of internal models to reduce capital requirements.
+
+• Pillar 1 – Minimum Capital Requirements:Banks must hold capital proportional to theirrisk-weighted assets (RWA), with riskier assets requiring more capital.
+• Pillar 2 – Supervisory Review:Regulators assess each bank’sinternal risk processesand ensure capital staysabove minimum requirements.
+• Pillar 3 – Market Discipline:Banks mustdisclosetheir risk profiles and capital levels to promotetransparencyand encourage prudent behavior through market scrutiny.
+
+• Basel I (1988)introduced a capital measurement system focused oncredit riskandrisk-weighted assets, setting minimum capital requirements for banks.
+• Basel II (2004)refined this by adding the three-pillar framework ofminimum capital,supervisory review, andmarket discipline.
+• Basel III (2010), developed after the 2007–08 crisis, strengthened banks’capital base,liquidity, andleverage standards.
+• Basel IV (2017)aims to tighten remaining gaps by makingRWA calculationsmore consistent across banks and limiting the misuse of internal models to reduce capital requirements.
+
+
+Basel Committee on Banking Supervision (BCBS)
+
+
+• About:BCBSis the globalstandard-setterfor banking regulation, creating frameworks likeBasel I–IIIto strengthen financial stability.It was formed in 1974 after theHerstatt crisis, when a German bank collapsed.
+• Membership:Includes45 membersfrom28 jurisdictions, covering major advanced and emerging economies including India.
+• Functions:Setsbanking standards, promotessupervisory cooperation, monitorsimplementation, and identifiesglobal financial risks.
+• Governance:The BCBS operates under the guidance of the Group of Central Bank Governors and Heads of Supervision (GHOS).
+
+• It was formed in 1974 after theHerstatt crisis, when a German bank collapsed.
+
+
+Frequently Asked Questions (FAQs)
+
+
+1. What are Tier II bonds?
+
+Tier II bonds are subordinated debt instruments counted as supplementary capital under Basel-III, issued by banks to bolster the Capital Adequacy Ratio without issuing equity.
+
+2. What is the primary objective of the Basel Committee on Banking Supervision (BCBS)?
+
+The BCBS sets international banking standards (like Basel III) to promote financial stability by ensuring banks maintain sufficient capital, improve risk management, and enhance supervisory practices globally.
+
+3. Name the three pillars of the Basel regulatory framework.
+
+The three pillars are: Pillar 1 - Minimum Capital Requirements, Pillar 2 - Supervisory Review Process, and Pillar 3 - Market Discipline.
+
+
+UPSC Civil Services Examination, Previous Year Questions (PYQs)
+
+
+Q.Consider the following statements: (2018)
+
+• Capital Adequacy Ratio (CAR) is the amount that banks have to maintain in the form of their own funds to offset any loss that banks incur if the account-holders fail to repay dues.
+• CAR is decided by each individual bank.
+
+Which of the statements given above is/are correct?
+
+Q.‘Basel III Accord’ or simply ‘Basel III’, often seen in the news, seeks to (2015)
+
+(a) develop national strategies for the conservation and sustainable use of biological diversity
+
+(b) improve banking sector’s ability to deal with financial and economic stress and improve risk management
+
+(c) reduce the greenhouse gas emissions but places a heavier burden on developed countries
+
+(d) transfer technology from developed countries to poor countries to enable them to replace the use of chlorofluorocarbons in refrigeration with harmless chemicals
+
+
+Rapid Fire
+
+
+• Rapid Fire CA
+• Quick Facts For Prelims
+• GS Paper - 2
+• Important International Institutions
+
+India was unanimously re-elected to theExecutive Committee of the Codex Alimentarius Commission (CCEXEC)at48thsession of theCodex Alimentarius Commission(CAC48)securing its seat for Asia untilCAC50 in 2027, strengthening its role in setting global food safety and quality standards.
+
+• Codex Alimentarius Commission (CAC):It was created in 1963 byFood and Agriculture Organization (FAO)andWorld Health Organization (WHO), sets global food safety and quality standards to protect consumers and ensure fair food trade. It has189 members, andIndia joined in 1964.CAC is the body responsible for all matters regarding the implementation of theJoint FAO/WHO Food Standards Programme.CCEXECoversees the management of the CAC, guides strategic planning, and manages standards development.India is a member of CCEXEC in its capacity as the Regional Coordinator for Asia (CCASIA).
+• Codex Alimentarius:TheCodex Alimentarius, or "Food Code",adopted by CAC  is a collection of international standards, guidelines, and codes covering food hygiene, additives, pesticide residues, contaminants, labelling, and inspection.TheAgreement on Application of Sanitary and Phytosanitary Measures (SPS) of the World Trade Organization (WTO)recognizes Codex standards, guidelines and recommendations as reference standards for international trade and trade dispute settlement
+• India and CAC:India has been chairing theCodex Committee on Spices and Culinary Herbs (CCSCH) since its inception in 2014, with theSpices Board of Indiaserving as the secretariat.India actively engaged in discussions around theCodex Strategic Plan 2026–2031, advocating for SMART(Specific, Measurable, Achievable, Relevant, Time-bound) Key Performance Indicators.
+
+• CAC is the body responsible for all matters regarding the implementation of theJoint FAO/WHO Food Standards Programme.
+• CCEXECoversees the management of the CAC, guides strategic planning, and manages standards development.India is a member of CCEXEC in its capacity as the Regional Coordinator for Asia (CCASIA).
+
+• India is a member of CCEXEC in its capacity as the Regional Coordinator for Asia (CCASIA).
+
+• TheAgreement on Application of Sanitary and Phytosanitary Measures (SPS) of the World Trade Organization (WTO)recognizes Codex standards, guidelines and recommendations as reference standards for international trade and trade dispute settlement
+
+• India actively engaged in discussions around theCodex Strategic Plan 2026–2031, advocating for SMART(Specific, Measurable, Achievable, Relevant, Time-bound) Key Performance Indicators.
+
+
+Rapid Fire
+
+
+• Rapid Fire CA
+• Quick Facts For Prelims
+• GS Paper - 3
+• Transparency & Accountability
+
+TheMinistry of Statistics and Programme Implementation (MoSPI)released theNational Industrial Classification (NIC) 2025during the ‘Culmination Ceremony' of the 75thanniversary ofNational Sample Survey (NSS).
+
+• NIC 2025:The NIC is a fundamental tool used in statistical surveys, censuses, economic research, and policy formulation.It groups businesses and activities into structured categories so data can be collected, compared, and analysed consistently across the country.India’s classification system, introduced in 1962and later updated as NIC 1970, 1987, 1990, 1998, 2004 and 2008, has now been comprehensively revised to reflect the country’s evolving economic structure.The NIC 2025 is in line withInternational Standard Industrial Classification of All Economic Activities (ISIC) Revision 5, developed by theUnited Nations Statistics Division (UNSD).
+
+• It groups businesses and activities into structured categories so data can be collected, compared, and analysed consistently across the country.
+• India’s classification system, introduced in 1962and later updated as NIC 1970, 1987, 1990, 1998, 2004 and 2008, has now been comprehensively revised to reflect the country’s evolving economic structure.
+• The NIC 2025 is in line withInternational Standard Industrial Classification of All Economic Activities (ISIC) Revision 5, developed by theUnited Nations Statistics Division (UNSD).
+
+It groups businesses and activities into structured categories so data can be collected, compared, and analysed consistently across the country.
+
+
+National Sample Survey (NSS)
+
+
+• The NSS was established in1950on the recommendation of theNational Income Committee (1949),chaired byProfessor P.C. Mahalanobis,which had identified major gaps in socio-economic data in the country.
+• NSS is headed by aDirector General,it conducts large-scale sample surveys across India on socio-economic subjects, includinghousehold surveys,Annual Survey of Industries (ASI), and rural–urban price collection.It supports improvement of crop statistics by supervising area enumeration and crop estimation surveys of State agencies.
+• The NSS has Four Divisions:Survey Design and Research Division (SDRD), Kolkata.Field Operations Division (FOD), Delhi/Faridabad.Data Processing Division (DPD), Kolkata.Survey Coordination Division (SCD), New Delhi.
+
+• It supports improvement of crop statistics by supervising area enumeration and crop estimation surveys of State agencies.
+
+• Survey Design and Research Division (SDRD), Kolkata.
+• Field Operations Division (FOD), Delhi/Faridabad.
+• Data Processing Division (DPD), Kolkata.
+• Survey Coordination Division (SCD), New Delhi.
+
+Survey Design and Research Division (SDRD), Kolkata.
+
+Field Operations Division (FOD), Delhi/Faridabad.
+
+Data Processing Division (DPD), Kolkata.
+
+Survey Coordination Division (SCD), New Delhi.
+
+
+Rapid Fire
+
+
+• Rapid Fire CA
+• Quick Facts For Prelims
+• India and its Neighbourhood
+• Bilateral Groupings & Agreements
+• Groupings & Agreements Involving India and/or Affecting India's Interests
+
+TheUN Security Council (UNSC)adoptedResolution 2803, endorsing theTrump Gaza Peace Planand authorizing the establishment of anInternational Stabilization Force (ISF)in Gaza.
+
+• The resolution passed with13 votes in favor and none against, although China and Russia abstained.
+• Trump Gaza Plan:ThePlan,announced inSeptember 2025, aims to transform Gaza from a conflict zone to a peaceful region. It outlines a phased approach:Phase 1: Ceasefire, hostages' release, and partial Israeli troop withdrawal.Subsequent Phases: Demilitarization, transitional governance, and reconstruction, with the goal of creating a "deradicalized, terror-free zone."
+• BoP & International Stabilization Force (ISF):ABoard of Peace (BoP),chaired by President Trump, willoversee Gaza’s transition, reconstruction, and governance reformsuntil December 2027,after which control will transfer to areformed Palestinian Authority.The BoP is authorized to establish theInternational Stabilization Force (ISF),responsible forsecuring Gaza’s borders, supporting demilitarization, protecting civilians, and facilitating humanitarian aid.
+
+• Phase 1: Ceasefire, hostages' release, and partial Israeli troop withdrawal.
+• Subsequent Phases: Demilitarization, transitional governance, and reconstruction, with the goal of creating a "deradicalized, terror-free zone."
+
+• The BoP is authorized to establish theInternational Stabilization Force (ISF),responsible forsecuring Gaza’s borders, supporting demilitarization, protecting civilians, and facilitating humanitarian aid.
+
+
+Rapid Fire
+
+
+• Rapid Fire CA
+• Quick Facts For Prelims
+• GS Paper - 3
+• Conservation
+• GS Paper - 2
+• Judgements & Cases
+
+TheSupreme Court of Indiahas directed Uttarakhand to fully restore theCorbett Tiger Reserveafter findings of illegal tree-felling and construction, and issued reforms fortiger conservation and managementacross all States.
+
+• Uttarakhand must restore Corbett, submit a restoration plan within 2 months, demolish illegal structures within 3 months, and file a compliance report within 1 year.
+• SC Directive to States:SC has ordered all States tonotify the core and buffer areas of every tiger reservewithin six months, and to declareEco-Sensitive Zones (ESZs)around these reserves within one year.To prepare aTiger Conservation Planwithinthree monthsand directed to ban tiger safaris in core and critical tiger habitats.To treathuman–wildlife conflictas a potential natural disasterand ensure stronger compensation systems, including an ex-gratia payment of Rs 10 lakh to victims under theCentrally SponsoredIntegrated Development of Wildlife Habitats scheme.
+
+• SC has ordered all States tonotify the core and buffer areas of every tiger reservewithin six months, and to declareEco-Sensitive Zones (ESZs)around these reserves within one year.
+• To prepare aTiger Conservation Planwithinthree monthsand directed to ban tiger safaris in core and critical tiger habitats.
+• To treathuman–wildlife conflictas a potential natural disasterand ensure stronger compensation systems, including an ex-gratia payment of Rs 10 lakh to victims under theCentrally SponsoredIntegrated Development of Wildlife Habitats scheme.
+
+
+Corbett Tiger Reserve
+
+
+• About:Corbett Tiger Reserve isAsia’s first national parkestablished in 1936, renowned for its biodiversity including the world's highest density of tigers.It was established asHailey National Parkand later renamed in 1956 to honourJim Corbett,the hunter-turned-conservationist who helped create it.It became the first national park to be included under Project Tiger in 1973.
+• Location:Corbett lies in theHimalayan foothills of Uttarakhand.It has an undulating landscape with several valleys through which theRamganga, Pallaen, and Sonanadi rivers flow.The reserve falls largely in theBhabar and lower Shivalik region, known for its porous soil and deep water table.
+• Flora & Fauna:Corbett’s vegetation includesmoist and dry deciduous forestsdominated by sal, mixed woodland, riparian vegetation, and shrub species.The reserve is known for itsopen grasslands, called chaurs, formed from old settlements and clearings. Important chaurs such as Dhikala and Bijrani support rich wildlife.Tigers and elephants are the flagship species, accompanied by leopards, smaller carnivores, sambar, hog deer, spotted deer, and a variety of birds and reptiles such as gharials and crocodiles.
+
+• It was established asHailey National Parkand later renamed in 1956 to honourJim Corbett,the hunter-turned-conservationist who helped create it.
+• It became the first national park to be included under Project Tiger in 1973.
+
+• The reserve falls largely in theBhabar and lower Shivalik region, known for its porous soil and deep water table.
+
+• The reserve is known for itsopen grasslands, called chaurs, formed from old settlements and clearings. Important chaurs such as Dhikala and Bijrani support rich wildlife.
+• Tigers and elephants are the flagship species, accompanied by leopards, smaller carnivores, sambar, hog deer, spotted deer, and a variety of birds and reptiles such as gharials and crocodiles.

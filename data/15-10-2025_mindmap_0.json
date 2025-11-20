@@ -1,0 +1,295 @@
+{
+    "title": "Daily Saraansh - Current Affairs",
+    "nodes": [
+        {
+            "name": "India-Canada Relations",
+            "children": [
+                {
+                    "name": "Key Highlights",
+                    "children": [
+                        {
+                            "name": "Joint Statement: Renewing Momentum"
+                        },
+                        {
+                            "name": "Trade and Economic Cooperation"
+                        },
+                        {
+                            "name": "Clean Energy & Climate Action"
+                        },
+                        {
+                            "name": "Science, Technology, and Digital Ties"
+                        },
+                        {
+                            "name": "People-to-People Links"
+                        }
+                    ]
+                },
+                {
+                    "name": "Challenges",
+                    "children": [
+                        {
+                            "name": "Khalistan Issue"
+                        },
+                        {
+                            "name": "Trade and Economic Disruptions"
+                        },
+                        {
+                            "name": "Diplomatic Strain"
+                        },
+                        {
+                            "name": "Strategic Misalignment"
+                        },
+                        {
+                            "name": "Divergence in Global Governance"
+                        }
+                    ]
+                },
+                {
+                    "name": "Measures",
+                    "children": [
+                        {
+                            "name": "Diplomatic Recalibration"
+                        },
+                        {
+                            "name": "Economic Integration"
+                        },
+                        {
+                            "name": "Technological Cooperation"
+                        },
+                        {
+                            "name": "Strengthening Human Capital"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "NITI Aayog Report on Blue Economy",
+            "children": [
+                {
+                    "name": "Key Highlights",
+                    "children": [
+                        {
+                            "name": "Unlocking Marine Potential"
+                        },
+                        {
+                            "name": "Roadmap for Fisheries"
+                        },
+                        {
+                            "name": "Phase 1: Foundation and Early Growth"
+                        },
+                        {
+                            "name": "Phase 2: Scaling Up"
+                        },
+                        {
+                            "name": "Phase 3: Global Leadership"
+                        }
+                    ]
+                },
+                {
+                    "name": "Key Challenges",
+                    "children": [
+                        {
+                            "name": "Lack of Stock Assessment"
+                        },
+                        {
+                            "name": "Weak Infrastructure"
+                        },
+                        {
+                            "name": "Technological Gaps"
+                        },
+                        {
+                            "name": "Limited Finance"
+                        },
+                        {
+                            "name": "Outdated Legal Framework"
+                        },
+                        {
+                            "name": "Fragmented Policy"
+                        }
+                    ]
+                },
+                {
+                    "name": "Recommendations",
+                    "children": [
+                        {
+                            "name": "Policy & Regulation"
+                        },
+                        {
+                            "name": "Institutional Strengthening"
+                        },
+                        {
+                            "name": "Fleet Modernisation"
+                        },
+                        {
+                            "name": "Sustainable Fisheries"
+                        },
+                        {
+                            "name": "Financing & Mobilisation"
+                        },
+                        {
+                            "name": "Implementation Mechanism"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Vital Statistics Report 2023",
+            "children": [
+                {
+                    "name": "Key Findings",
+                    "children": [
+                        {
+                            "name": "Birth and Death Trends"
+                        },
+                        {
+                            "name": "Sex Ratio at Birth (SRB)"
+                        },
+                        {
+                            "name": "Institutional Births"
+                        }
+                    ]
+                },
+                {
+                    "name": "Reasons for Skewed Sex Ratio",
+                    "children": [
+                        {
+                            "name": "Gender Bias"
+                        },
+                        {
+                            "name": "Son Preference"
+                        },
+                        {
+                            "name": "Social Practices"
+                        },
+                        {
+                            "name": "Rising Income Paradox"
+                        }
+                    ]
+                },
+                {
+                    "name": "Measures to Improve Sex Ratio",
+                    "children": [
+                        {
+                            "name": "Behavioral Change"
+                        },
+                        {
+                            "name": "Youth Sensitization"
+                        },
+                        {
+                            "name": "Law Enforcement"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Nobel Prize in Economics 2025",
+            "children": [
+                {
+                    "name": "Key Highlights",
+                    "children": [
+                        {
+                            "name": "Joel Mokyr: Sustained Growth"
+                        },
+                        {
+                            "name": "Philippe Aghion & Peter Howitt: Creative Destruction"
+                        },
+                        {
+                            "name": "Significance of Research"
+                        },
+                        {
+                            "name": "Implications and Policy Insights"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "GEI Target Rules 2025",
+            "children": [
+                {
+                    "name": "About",
+                    "children": [
+                        {
+                            "name": "Legally Binding GHG Emission Limits"
+                        },
+                        {
+                            "name": "Operationalizing CCTS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Key Features",
+                    "children": [
+                        {
+                            "name": "Emission Limits for Industries"
+                        },
+                        {
+                            "name": "Compliance Mechanism"
+                        },
+                        {
+                            "name": "Carbon Credits and Penalties"
+                        }
+                    ]
+                },
+                {
+                    "name": "Significance",
+                    "children": [
+                        {
+                            "name": "Operationalizing Carbon Market"
+                        },
+                        {
+                            "name": "Meeting International Commitments"
+                        },
+                        {
+                            "name": "Evolution from PAT Scheme"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rapid Fire Updates",
+            "children": [
+                {
+                    "name": "Limestone Reclassification",
+                    "children": [
+                        {
+                            "name": "Reclassification as a Major Mineral"
+                        },
+                        {
+                            "name": "Significance"
+                        }
+                    ]
+                },
+                {
+                    "name": "UNESCO Virtual Museum",
+                    "children": [
+                        {
+                            "name": "Virtual Museum of Stolen Cultural Objects"
+                        },
+                        {
+                            "name": "Objective and Features"
+                        }
+                    ]
+                },
+                {
+                    "name": "Google in Visakhapatnam",
+                    "children": [
+                        {
+                            "name": "India's First AI Hub"
+                        },
+                        {
+                            "name": "Data Center"
+                        },
+                        {
+                            "name": "Significance of Data Centres"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

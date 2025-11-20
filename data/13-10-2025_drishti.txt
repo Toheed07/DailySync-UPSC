@@ -1,0 +1,577 @@
+13 Oct 202544 min readDaily SaraanshHomefilterHide Menu
+
+
+Governance
+
+
+• GS Paper - 2
+• Government Policies & Interventions
+• Health
+• GS Paper - 3
+• Employment
+
+For Prelims:International Labour Organization,Pradhan Mantri Shram Yogi Maan-dhan,National Skill Development Corporation
+
+For Mains: Labour Rights and Industrial Safety in India, Challenges in Enforcement of Labour Laws, Informal Sector and Social Security Measures
+
+
+Why in News?
+
+
+TheSigachi Industries reactor blast in Telangana, along with a spate of industrial accidents in 2025, hasreignited concerns over industrial safety standardsand theweakening of labour protections,reviving debates on the erosion of workers’ rights in India.
+
+
+What are the Reasons for Rising Industrial Accidents in India?
+
+
+• Negligence and Cost-Cutting:Employers oftenignore maintenance,use outdated machinery, and skip safety checks leading to frequent industrial accidents.TheInternational Labour Organization (ILO)states that industrial accidents are rarely random and they usually result from employers cutting corners, underinvesting in safety, or forcing workers into long hours and high pressure due to low wages.
+• Lack of Training and Safety Systems:Workers arepoorly trained,and many siteslack alarms, safety gear, or emergency facilitiesleading to mishandling of equipment and delayed response during crises.AtSigachi Industries, the reactor reportedly ran attwice the permissible temperaturewithout anyalarm or intervention, underscoring serious safety lapses.
+• Overwork and Fatigue:Long hours andhigh work pressureincrease mistakes in hazardous environments.
+• Weak Law Enforcement:Irregular inspections and poor enforcement allow unsafe practices to continue.
+• Unregistered Workers:Informal workers lack records, legal protection, and access to compensation, increasing vulnerability.
+• Deliberate Actions to Claim Insurance:Some accidents are manipulated or exaggerated to secure insurance payouts, contributing to underreporting of actual workplace safety practices.
+
+• TheInternational Labour Organization (ILO)states that industrial accidents are rarely random and they usually result from employers cutting corners, underinvesting in safety, or forcing workers into long hours and high pressure due to low wages.
+
+• AtSigachi Industries, the reactor reportedly ran attwice the permissible temperaturewithout anyalarm or intervention, underscoring serious safety lapses.
+
+
+What are the Key Labour Laws Governing Workers' Rights in India?
+
+
+• Factories Act, 1948:Governs working conditions, machinery maintenance, safety standards, working hours, rest breaks, canteens, and crèches.Includes provisions for inspections and enforcement to ensure compliance.It was amended in 1976 and 1987, the latter after theBhopal Gas Tragedy,to strengthen safety norms.
+• Workmen’s Compensation Act, 1923:Provides compensation to workers injured or killed on the job.
+• Employees’ State Insurance (ESI) Act, 1948:Offers health insurance, medical care, and cash benefits to employees in case of sickness, maternity, or employment-related injury.
+• Payment of Wages Act, 1936andMinimum Wages Act, 1948: Ensure timely and fair payment.
+• Industrial Disputes Act, 1947: Protects workers’ rights regarding termination, layoffs, and dispute resolution.
+• Occupational Safety, Health and Working Conditions (OSHWC) Code, 2020:Consolidates 13 previous labour laws into a single framework.OSHWC Codeseeks to regulate safety, health, and working conditions across sectors, though full implementation is pending.
+
+• Includes provisions for inspections and enforcement to ensure compliance.
+• It was amended in 1976 and 1987, the latter after theBhopal Gas Tragedy,to strengthen safety norms.
+
+
+What are the Challenges in Protecting Workers’ Rights in India?
+
+
+• Systemic Erosion of Legal Safeguards:Labour protections have been diluted under the guise of flexibility andease of doing business,weakening enforcement mechanisms.For example,Maharashtra’s 2015 self-certification ruleallowed factories to bypass independent inspections, undermining statutory safety provisions.
+• Normalization of Informality and Vulnerability:Policy shiftsfavoring employer discretion to hire, fire, and extract workwithout oversight have entrenched informal employment, leaving workers unregistered and without legal or social protection.Most contract workers inSivakasi fireworks factoriesoperate without formal records, making accident compensation irregular and delayed.
+• Gendered Exclusion from Economic Gains:Weak enforcement of workplace rights disproportionatelyaffects women,constraining participation andperpetuating gender exclusion
+• Corporate Accountability Deficit:Reduced inspections and self-certification limit avenues tohold employers criminally or financially responsible for negligence.For instance, industrial disasters like the Ennore coal-handling collapse saw minimal legal consequences for structural failures despite evident lapses.
+• Long-Term Economic and Productivity Impact:Unsafe and exploitative work conditions lower productivity, with informal trade workers earningUSD 5/hour, nearly half the national average ofUSD 11/hour, undermining India’s Viksit Bharat 2047 goals.
+
+• For example,Maharashtra’s 2015 self-certification ruleallowed factories to bypass independent inspections, undermining statutory safety provisions.
+
+• Most contract workers inSivakasi fireworks factoriesoperate without formal records, making accident compensation irregular and delayed.
+
+• For instance, industrial disasters like the Ennore coal-handling collapse saw minimal legal consequences for structural failures despite evident lapses.
+
+
+How can India Strengthen Worker Rights and Improve Safety?
+
+
+• Reinforce Legal Safeguards:Fully implement the OSHWC Code, 2020, and align labour policies withILO conventionson workplace safety, decent work, and social protection.
+• Formalisation and Social Security:Digitally register informal workers through theShram Suvidha Portaland integrate them intouniversal social security coverage, including pensions, health insurance, and paid leave.Expand thePradhan Mantri Shram Yogi Maan-dhan (PM-SYM)pension scheme to cover all informal trade workers.
+• Skill Development and Safety Training:Implement sector-specific safety and skilling programs viaNational Skill Development Corporation (NSDC)andSkill India Mission.Accelerate the implementation ofMission Digital ShramSetuas proposed by NITI Aayog.LeverageAI-enabled monitoring and predictive toolsunder#AIforAllto track compliance and hazards in high-risk industries.
+• Gender-Inclusive MeasuresPromote female workforce participation throughworkplace childcare facilities, maternity benefits under theMaternity Benefit Act, 1961, and vocational training programs targeted at women in informal sectors.
+• Corporate Social Responsibility (CSR) Compliance:Encourage adherence toEnvironmental, Social, and Governance (ESG)criteria among businesses.Integrateworker welfare considerationsinto corporate CSR strategies.
+• Promote Collective Action and Safety Culture:Encouragecollective bargaining, worker representation, andwhistleblower protection.Foster a“safety-first” industrial culture, treating worker protection as an investment rather than a cost.
+• Data-Driven Monitoring:Establishnational dashboardsto track compliance, accident rates, and social protection coverage, enabling targeted policy interventions and preventing negligence.
+
+• Expand thePradhan Mantri Shram Yogi Maan-dhan (PM-SYM)pension scheme to cover all informal trade workers.
+
+• Accelerate the implementation ofMission Digital ShramSetuas proposed by NITI Aayog.
+• LeverageAI-enabled monitoring and predictive toolsunder#AIforAllto track compliance and hazards in high-risk industries.
+
+• Integrateworker welfare considerationsinto corporate CSR strategies.
+
+• Foster a“safety-first” industrial culture, treating worker protection as an investment rather than a cost.
+
+
+Conclusion
+
+
+Protecting worker rights needs strong laws, social security, skills training, gender inclusion, corporate accountability, and data-driven monitoring. Addressing these will safeguard workers, boost productivity, and advanceViksit Bharat 2047.
+
+Drishti Mains Question:
+
+How do systemic erosion and weak enforcement affect labour rights in India, and what reforms can address these gaps?
+
+
+Frequently Asked Questions (FAQs)
+
+
+1. What are the main causes of workplace accidents in India?Outdated machinery, poor safety systems, long work hours, unregistered workers, and weak law enforcement.
+
+2. Which laws protect industrial workers in India?Key laws include the Factories Act 1948, Occupational Safety, Health and Working Conditions (OSHWC) Code, 2020, Workmen’s Compensation Act 1923, ESI Act 1948, Payment of Wages Act 1936, and Minimum Wages Act 1948.
+
+3. How has the OSHWC Code, 2020, reformed worker safety regulations?It consolidates 13 labour laws to streamline safety, health, and working conditions, though full implementation is pending.
+
+4. What measures can improve worker rights and industrial safety?Reinforcing legal safeguards, formalising informal workers, skill training, gender inclusion, corporate accountability, and AI-enabled monitoring.
+
+
+UPSC Civil Services Examination, Previous Year Question (PYQ)
+
+
+
+Prelims
+
+
+Q. Consider the following statements: (2017)
+
+• The Factories Act, 1881 was passed with a view to fix the wages of industrial workers and to allow the workers to form trade unions.
+• N.M. Lokhande was a pioneer in organizing the labour movement in British India.
+
+Which of the above statements is/are correct?
+
+(a)1 only(b)2 only(c)Both 1 and 2(d)Neither 1 nor 2
+
+
+Mains
+
+
+Q.“Success of ‘Make in India’ programme depends on the success of ‘Skill India’ programme and radical labour reforms.” Discuss with logical arguments.(2015)
+
+
+Biodiversity & Environment
+
+
+• GS Paper - 3
+• Environmental Pollution & Degradation
+
+For Prelims:Carbon Capture Usage and Storage (CCUS),Greenhouse Gas,Bioenergy,Direct Air Capture,LNG,
+
+For Mains: Efficacy and risks of Carbon Capture, Utilization and Storage (CCUS) as a climate mitigation strategy, its associated challenges, India's position and initiatives in CCUS.
+
+
+Why in News?
+
+
+AClimate Analytics reportwarns that Asia’s vastCarbon Capture Usage and Storage (CCUS)plans could result in nearly25 billion tonnes of extragreenhouse gasemissions by 2050.
+
+• This is because most CCS projects acrossChina, Japan, South Korea, and Indonesiaaredesigned less to cut emissions and more to extend the life of coal, oil, and gas.
+
+
+What is Carbon Capture, Usage and Storage?
+
+
+• About:CCUS is a suite of technologies thatcapture CO₂ emissionsfrom major sources likepower plants, refineries, and industries, orremove CO₂ from the atmosphere.
+• Working of CCUS:CCUSinvolves three main stages —capture, transport, and storage (or use)ofCO₂.Capture methods include:Post-combustion: SeparatesCO₂ from flue gasusing solvents after fuel combustion.Pre-combustion: Converts fuel into a hydrogen–CO₂ mix before burning, then separates CO₂.Oxy-fuel combustion: Burns fuel in pure oxygen, producing CO₂ and steam for easy capture.Captured CO₂ iscompressed and transportedviapipeline, ship, rail, or roadandinjected into deep geological formationslikedepleted oil and gas fields or saline aquifersforlong-term storage. Alternatively, it may beused in commercial applications.
+• Role in Tackling Climate Change:CCUSplays a key role inglobal decarbonisationby:Reducing emissionsinhard-to-abate sectorslike steel,cement (7% of global emissions), and chemicals.Producing low-carbon electricity and hydrogento replace fossil fuels across industries and transport.Removing existing CO₂from the atmosphere throughBioenergywith CCS (BECCS)andDirect Air Capture(DACCS).It can be installed oncoal, gas, or biomass plants, enhancingenergy securityby diversifying low-carbon energy sources.
+
+• Capture methods include:Post-combustion: SeparatesCO₂ from flue gasusing solvents after fuel combustion.Pre-combustion: Converts fuel into a hydrogen–CO₂ mix before burning, then separates CO₂.Oxy-fuel combustion: Burns fuel in pure oxygen, producing CO₂ and steam for easy capture.
+• Captured CO₂ iscompressed and transportedviapipeline, ship, rail, or roadandinjected into deep geological formationslikedepleted oil and gas fields or saline aquifersforlong-term storage. Alternatively, it may beused in commercial applications.
+
+• Post-combustion: SeparatesCO₂ from flue gasusing solvents after fuel combustion.
+• Pre-combustion: Converts fuel into a hydrogen–CO₂ mix before burning, then separates CO₂.
+• Oxy-fuel combustion: Burns fuel in pure oxygen, producing CO₂ and steam for easy capture.
+
+• Reducing emissionsinhard-to-abate sectorslike steel,cement (7% of global emissions), and chemicals.
+• Producing low-carbon electricity and hydrogento replace fossil fuels across industries and transport.
+• Removing existing CO₂from the atmosphere throughBioenergywith CCS (BECCS)andDirect Air Capture(DACCS).
+• It can be installed oncoal, gas, or biomass plants, enhancingenergy securityby diversifying low-carbon energy sources.
+
+
+Why Does Asia’s Increasing Dependence on CCUS Raise Climate Concerns?
+
+
+• Massive Excess Emissions:Depending on theCCUS scenario,Asiacould emit an additional24.9 gigatonnes of CO₂-equivalent by 2050—more than the combinedfossil fuel emissionsofSouth KoreaandAustralia.Thisovershootisn't minor; it's a potentialdisasterthat would single-handedly jeopardizeglobal climate targets.
+• Economic Lock-In:Ahigh-CCS pathwayriskslocking countries into expensive, outdated fossil fuel infrastructure, creatingstranded assetsanddiverting investment from cleaner alternatives.
+• Exacerbate Regional Vulnerabilities:Ahigh-CCS pathwayfuels theclimate threatsthat most endangerAsia—sea-level rise,monsoonal instability, andheatwaves—while perpetuatingdeadly air pollutionfromuncaptured NOx and SOx.
+• Growing Energy Demand:Governmentsare usingCCUSas anenergy security strategyto exploitdomestic fossil fuelslikecoalandgas, paying lip service toclimate goalswhile avoiding a fullrenewable transition.
+
+• Thisovershootisn't minor; it's a potentialdisasterthat would single-handedly jeopardizeglobal climate targets.
+
+
+What is India’s Current Status in the CCUS?
+
+
+• Limited Deployment:India currently hasminimal CCS infrastructurewithno major operational projects or storage facilities, leaving itlargely disconnected from regional CCS networks.
+• CCU Testbeds for Cement Sector:India has launched itsfirst cluster of five CCU testbedsfor thecement sector, under aPublic-Private Partnership (PPP)model, focusing on:Oxygen-enhanced Calcination:ConvertingCO₂ into concrete blocks and olefins(e.g., ethylene, propylene).Carbon-negative Mineralisation:Permanently locking CO₂into rock formations.Vacuum Swing Adsorption:Separating CO₂from cement kiln gases andintegrating it back into construction materials.
+• National Centres in Carbon Capture:Supported by theDepartment of Science & Technology,India is establishingtwo National Centres of Excellence (CoE) in Carbon Capture and Utilization (CCU) at:NCoE-CCU at IIT Bombay, Mumbai,andNCCCU at JNCASR, Bengaluru.
+• Renewable Advantage:India’s progress insolar, wind, electric mobility,andgreen hydrogenoffers a decarbonisation pathway without heavyCCUS.USD 4.3 billionin government support forCCSraises debate on directing funds towardrenewablesandgreen innovation.
+
+• Oxygen-enhanced Calcination:ConvertingCO₂ into concrete blocks and olefins(e.g., ethylene, propylene).
+• Carbon-negative Mineralisation:Permanently locking CO₂into rock formations.
+• Vacuum Swing Adsorption:Separating CO₂from cement kiln gases andintegrating it back into construction materials.
+
+• NCoE-CCU at IIT Bombay, Mumbai,and
+• NCCCU at JNCASR, Bengaluru.
+
+• USD 4.3 billionin government support forCCSraises debate on directing funds towardrenewablesandgreen innovation.
+
+
+What are the Key Concerns Associated with CCUS?
+
+
+• Low Capture Efficiency:MostCCS projects capture only around 50% of CO₂, far below the95%required for meaningfulemission abatement, making them less effective as a climate solution.
+• Fossil Fuel Dependence:About80% of existing CCS projectsuse captured CO₂ forEnhanced Oil Recovery (EOR), whichextends fossil fuel extractionrather than reducing it.
+• High Economic Costs:CCS-based power generationcan makeelectricity up to twice as expensiveas renewables with storage.CCUS facilitiesare bothcapital- and energy-intensive, raising concerns abouteconomic viability, especially in Asia.
+• Sectoral Misalignment:MostCCS projects target fossil fuel sectorslike gas,LNG, and hydrogen production — areas that already havezero-emission alternatives— whilehard-to-abate sectorssuch assteel and cementreceive minimal investment.
+• Emergence of Cheaper Alternatives:Renewables, electrification, and energy efficiencyare alreadymore cost-effectivethan fossil fuels with CCS. Ahigh-CCS pathwaycould cost up toUSD 30 trillion more globallyby 2050 compared to a low-CCS route.
+• Environmental Risks:Potential CO₂ leakagefrom underground storage couldreverse emission reductionsanddamage ecosystems.
+
+
+What Strategy Should India Adopt for CCUS in its Green Transition Pathway?
+
+
+• Prioritize Renewables:Focus onsolar, wind, green hydrogen, and electric mobilityas primary decarbonization pathways. Use CCUSonly where emissions are hard to abate, such as steel, cement, and chemical industries.
+• Pilot and Scale Selectively:Implementsmall-scale, high-efficiency CCUS projectsto evaluate cost-effectiveness and environmental safety. Avoid blanket deployment that encouragescontinued fossil fuel reliance.
+• Develop Storage Atlas:Storage is as crucial as the Capture; without safe, accessible storage,CCUSis ineffective.Oil and Natural Gas Corporation (ONGC)and theGeological Survey of India (GSI)should mapdepleted oil and gas fields(e.g.,Bombay High) anddeep saline aquifersto reduceinvestment risks.
+• Technology Transfer & Finance: Negotiatewith developed countries forCCUS technology and finance, positioning it as key forGlobal South industrialization.Invest in R&DforDirect Air Capture (DAC)andBECCSto lead inclimate restoration technologies.
+
+• Oil and Natural Gas Corporation (ONGC)and theGeological Survey of India (GSI)should mapdepleted oil and gas fields(e.g.,Bombay High) anddeep saline aquifersto reduceinvestment risks.
+
+
+Conclusion
+
+
+Asia's over-reliance on CCUSas aprimary climate strategyrisksmassive emissions, economic lock-in, andderailing the 1.5°C goal. ForIndiaand others, prioritizingproven, cheaper alternativeslikerenewablesandgreen hydrogenovercostly, inefficient CCUSis the more viable path todecarbonization.
+
+Drishti Mains Question:
+
+What is Carbon Capture, Usage and Storage (CCUS)? Critically analyse the risks and limitations of CCUS in tackling climate change.
+
+
+Frequently Asked Questions (FAQs)
+
+
+1. What is Carbon Capture, Usage and Storage (CCUS)?CCUS captures CO₂ from power plants, industries, or the atmosphere, transporting it for storage in geological formations or industrial use to mitigate climate change.
+
+2. How does Enhanced Oil Recovery (EOR) link to CCUS projects?Approximately 80% of current CCS projects use captured CO₂ for Enhanced Oil Recovery (EOR), which extends fossil fuel extraction, thereby undermining the technology's climate mitigation potential.
+
+3. Why are Asia’s CCUS plans considered risky?They could produce 24.9 Gt extra CO₂ by 2050, lock economies into fossil fuels, and divert investments from cleaner, cost-effective technologies.
+
+
+UPSC Civil Services Examination, Previous Year Questions (PYQs)
+
+
+
+Prelims
+
+
+Q1. Consider the following agricultural practices: (2012)
+
+• Contour bunding
+• Relay cropping
+• Zero tillage
+
+In the context of global climate change, which of the above helps/help in carbon sequestration/storage in the soil?
+
+Q2. In the context of mitigating the impending global warming due to anthropogenic emissions of carbon dioxide, which of the following can be the potential sites for carbon sequestration? (2017)
+
+• Abandoned and uneconomic coal seams
+• Depleted oil and gas reservoirs
+• Subterranean deep saline formations
+
+Select the correct answer using the code given below:
+
+
+Facts for UPSC Mains
+
+
+• GS Paper - 2
+• Government Policies & Interventions
+• Health
+• Education
+
+
+Why in News?
+
+
+The Union Cabinet has approvedPhase-III of theBiomedical Research Career Programme (BRCP),shapingIndia’s next frontiers in science through biomedical researchand strengthening the nation’s innovation capacity in line withViksit Bharat 2047.
+
+
+What is the Biomedical Research Career Programme (BRCP)?
+
+
+• About:TheBRCPis a flagshipIndo-UK initiativelaunched in2008–09, the programme isjointly implemented by theDepartment of Biotechnology (DBT),Government of India, and the Wellcome Trust, UK.BRCP aligns with national missions such asAtmanirbhar Bharat,Swasth Bharat,and Startup India.Phase II of the BRCP was launched in 2018–19 with an expanded portfolio and broader research areas.Phase III will be implemented from2025–26 to 2030–31,with an extended service phase up to2037–38.
+• Main ObjectivesBuild aworld-class biomedical research ecosystemin India.Supportscientists at all career stagesfrom early-career to senior researchers throughfellowships and grants.Encourageinterdisciplinary, ethical, and translational researchthat directly improves healthcare and public health outcomes.Phase-III targets training 2,000 researchers, advancing 25–30% projects to Technology Readiness Level (TRL-4) and above, promoting patentable research, and increasing women scientist participation by 10–15% for greater inclusivity.
+• Achievements:The BRCP has supported721 research grantsand played akey role in shaping India’s COVID-19 research response.
+
+• BRCP aligns with national missions such asAtmanirbhar Bharat,Swasth Bharat,and Startup India.
+• Phase II of the BRCP was launched in 2018–19 with an expanded portfolio and broader research areas.
+• Phase III will be implemented from2025–26 to 2030–31,with an extended service phase up to2037–38.
+
+• Build aworld-class biomedical research ecosystemin India.
+• Supportscientists at all career stagesfrom early-career to senior researchers throughfellowships and grants.
+• Encourageinterdisciplinary, ethical, and translational researchthat directly improves healthcare and public health outcomes.
+• Phase-III targets training 2,000 researchers, advancing 25–30% projects to Technology Readiness Level (TRL-4) and above, promoting patentable research, and increasing women scientist participation by 10–15% for greater inclusivity.
+
+
+What are India’s Emerging Frontiers in Biomedical Research and Innovation?
+
+
+• Genomics & Human Genetics: Initiatives likeGenomeIndiaandUMMID (Unique Methods of Management and Treatment of Inherited Disorders)map India’s genetic diversity to enableprecision medicineand early diagnosis of rare diseases.dbGENVOC, developed byDBT-National Institute of Biomedical Genomics (NIBMG), is the world’s first publicoral cancer genomic database, hosting over24 million variantsto supportprevention, diagnosis, and treatmentin India.
+• Infectious Disease Biology: India's research onHuman immunodeficiency virus (HIV),Tuberculosis (TB),  malaria, Covid-19, and dengue, led to innovations like theDengue Day 1 testandHIV Tri-Dot+Ag test.
+• Vaccine Development: Supported by theIndo-US Vaccine Action Programme (VAP), India has developed key indigenous vaccines such asROTAVACandCovaxin.Current efforts target diseases like dengue, malaria, and pneumonia, enhancingself-relianceand export potential.
+• Diagnostics & Medical Devices: Tools likeClustered Regularly Interspaced Short Palindromic Repeats (CRISPR)based tests, indigenousReverse transcription polymerase chain reaction (RT-PCR)kits, and affordable devices improveearly detection and healthcare access.
+• Therapeutics & Drug Repurposing:India is acceleratingaffordable drug developmentby repurposing existing drugs for new indications. This approachshortens clinical trial timelines and regulatory approvals, making therapies more accessible for India’s large population.
+• Biomedical Engineering & Biodesign: UnderProduction Linked Incentive scheme for promoting domestic manufacturing of Medical Devices (PLI MD), India developslow-cost implants, assistive devices, and medical instruments, reducing dependence on imports.
+• Maternal & Child Health: Programs likeGARBH-inistudypre-term births and developmental risksto improvematernal and child care.National Antimicrobial resistance (AMR) supports R&D for affordable, evidence-based solutions to addressAMR, lifestyle diseases, and malnutrition.Initiatives likeBioCARe(career development of unemployed female scientists), Janaki Ammal Award(recognizes outstanding contributions to the field of taxonomy),and women-focused incubators promotegender inclusivity and leadership.
+
+• dbGENVOC, developed byDBT-National Institute of Biomedical Genomics (NIBMG), is the world’s first publicoral cancer genomic database, hosting over24 million variantsto supportprevention, diagnosis, and treatmentin India.
+
+• Current efforts target diseases like dengue, malaria, and pneumonia, enhancingself-relianceand export potential.
+
+• National Antimicrobial resistance (AMR) supports R&D for affordable, evidence-based solutions to addressAMR, lifestyle diseases, and malnutrition.
+• Initiatives likeBioCARe(career development of unemployed female scientists), Janaki Ammal Award(recognizes outstanding contributions to the field of taxonomy),and women-focused incubators promotegender inclusivity and leadership.
+
+
+India as the ‘Pharmacy of the World’
+
+
+• Global Recognition:India is globally known as the“Pharmacy of the World”for its role in supplying affordable vaccines, medicines, and medical supplies worldwide, especially during theCoivd-19 pandemic.India's pharma industry is considered to be theworld's third largest by volume and 14thin terms of value of production.
+• Export Growth:Drug and pharmaceutical exports rose by8.36%, from2023to2024.Exports increased fromUSD 15.07 billion in 2013–14toUSD 27.85 billion in 2023–24.India exports to around200 countries, with top markets including theUSA, Belgium, South Africa, the UK, and Brazil.
+• Biotechnology Boom:India’s biotech sector expanded fromUSD 10 billion (2014)toUSD 130 billion (2024)and is projected to hitUSD 300 billion by 2030.Growth is evenly distributed acrossmetro, Tier-I, and rural markets( with 30% share each).
+
+• India's pharma industry is considered to be theworld's third largest by volume and 14thin terms of value of production.
+
+• Exports increased fromUSD 15.07 billion in 2013–14toUSD 27.85 billion in 2023–24.
+• India exports to around200 countries, with top markets including theUSA, Belgium, South Africa, the UK, and Brazil.
+
+• Growth is evenly distributed acrossmetro, Tier-I, and rural markets( with 30% share each).
+
+
+What Measures can Ensure Long-Term Sustainability of Biomedical Research in India?
+
+
+• Policy and Regulatory Reforms:Establish aNational Biomedical Research Authority (NBRA)to streamline ethical clearances and data governance.Integrateopen science frameworksfor transparency and collaboration.
+• Financial and Institutional Sustainability:Create aNational Biomedical Innovation Fund (NBIF)for continued support post-2037. Strengthenpublic–private partnerships (PPP)for translational research and manufacturing.
+• Regional Research Clusters:DevelopBioInnovation Hubsin Tier-2/3 cities to decentralize R&D capacity and promote local employment.
+• Skill Development and Education:Introducebiomedical innovation fellowshipsand interdisciplinary curricula in medical and engineering institutions.
+• Monitoring and Impact Assessment:UseAI-driven dashboardsto track fellowship outcomes, technology readiness, and gender parity metrics.
+
+• Integrateopen science frameworksfor transparency and collaboration.
+
+
+Conclusion
+
+
+TheBRCPI, alongside initiatives likeBioE3, is propelling India towards becoming aglobal hub for affordable and impactful biomedical innovation. Aligned withDG-3 (Good Health and Well-being) and SDG-9 (Industry, Innovation, and Infrastructure), it strengthens healthcare, fosters inclusivity, and advances scientificleadership on the world stage.
+
+Drishti Mains Question:
+
+Biomedical research is central to achieving India’s vision of Viksit Bharat 2047. Discuss.
+
+
+Frequently Asked Questions (FAQs)
+
+
+1. What is the Biomedical Research Career Programme (BRCP)?BRCP is a flagshipIndo-UK initiativeaimed at building aworld-class biomedical research ecosystem in India.
+
+2. What are India’s emerging frontiers in biomedical research?Key areas includegenomics, infectious disease biology, vaccine development, diagnostics, therapeutics, biomedical engineering, maternal & child health, and public health nutrition.
+
+3. What is dbGENVOC and its significance?dbGENVOC, developed byDBT-NIBMG, is the world’s firstpublic oral cancer genomic databasewith 24+ million variants, supportingprevention, diagnosis, and treatmentin India.
+
+
+Important Facts For Prelims
+
+
+• Quick Facts For Prelims
+• GS Paper - 2
+
+
+Why in News?
+
+
+TheNorwegian Nobel Committeehas awarded theNobel Peace Prize 2025toMaria Corina Machadoin recognition of hertireless efforts to promote democratic rights in Venezuelaand her unwavering struggle for ajust and peaceful transition from dictatorship to democracy.
+
+
+What are the Key Highlights of the Nobel Peace Prize 2025?
+
+
+• Laureate:María Corina Machado, a Venezuelan politician andpro-democracy activist,widely known as the"Iron Lady of Venezuela" for her courageous stand against authoritarianism.Since 1999,Venezuela has shifted from a relatively stable democracy to a deeply entrenched authoritarian state.With citizensfacing poverty and limited freedoms,while the opposition struggles under constant threats.
+• Maria Corina Machado Contributions:She founded theAtenea Foundationin 1992 to support street children and co-foundedSúmateto monitor elections andpromote free and fair voting.Mobilised citizens and opposition groups byadvocating “ballots over bullets,”promoting peaceful civic participation over violent resistance.She stoodfirmly against authoritarian rulewhile remaining in Venezuela under threats, working to unify thepro-democracy movement.
+• Global Significance: 2025 Nobel Peace PrizetoMaria Corina Machadohighlights thatdemocracy is the foundation of peace, both within countries and internationally.
+
+• Since 1999,Venezuela has shifted from a relatively stable democracy to a deeply entrenched authoritarian state.With citizensfacing poverty and limited freedoms,while the opposition struggles under constant threats.
+
+• Mobilised citizens and opposition groups byadvocating “ballots over bullets,”promoting peaceful civic participation over violent resistance.
+• She stoodfirmly against authoritarian rulewhile remaining in Venezuela under threats, working to unify thepro-democracy movement.
+
+
+Did you Know?
+
+
+• India has two Nobel Peace Prize laureates:Mother Teresa (1979) and Kailash Satyarthi (2014)Mother Teresa:Awarded  for her work for bringing help to suffering humanity.Kailash Satyarthi:Shared the 2014 Nobel Peace Prize withMalala Yousafzaifor his work against thesuppression of children and for the right of all children to education.He founded theBachpan Bachao Andolan (Save the Childhood Movement).
+• Nobel Peace Prize:Since 1901, the Nobel Peace Prize has been awarded to individuals or organizations promoting fraternity between nations, reducing standing armies, or advancing peace.Initially, it recognised pioneers of the peace movement, later shifting to politicians, diplomats, and humanitarian work.SinceWorld War II,the focus has been on arms control, peace negotiation, democracy and human rights, and creating a more peaceful world.In the 21st century,efforts addressing climate change and environmental threats are also considered.
+
+• Mother Teresa:Awarded  for her work for bringing help to suffering humanity.
+• Kailash Satyarthi:Shared the 2014 Nobel Peace Prize withMalala Yousafzaifor his work against thesuppression of children and for the right of all children to education.He founded theBachpan Bachao Andolan (Save the Childhood Movement).
+
+• He founded theBachpan Bachao Andolan (Save the Childhood Movement).
+
+• Initially, it recognised pioneers of the peace movement, later shifting to politicians, diplomats, and humanitarian work.
+• SinceWorld War II,the focus has been on arms control, peace negotiation, democracy and human rights, and creating a more peaceful world.
+• In the 21st century,efforts addressing climate change and environmental threats are also considered.
+
+Click here to Read:Nobel Prize in Literature 2025
+
+• Nobel Prize in Physiology or Medicine 2025
+• Nobel Prize in Physics 2025
+• Nobel Prize in Chemistry 2025
+• Nobel Prize
+
+
+Frequently Asked Questions (FAQs)
+
+
+1. Who is the Nobel Peace Prize 2025 laureate?Maria Corina Machado for promoting democracy and peaceful transition in Venezuela.
+
+2. Which Indians have won the Nobel Peace Prize?Mother Teresa (1979) and Kailash Satyarthi (2014).
+
+3. What are the main categories of the Nobel Peace Prize?The Nobel Peace Prize is awarded to individuals or organizations promoting peace, resolving conflicts, advancing democracy and human rights, or contributing to global stability and humanitarian work.
+
+
+Important Facts For Prelims
+
+
+• GS Paper - 1
+• Geographical Features and their Location
+• GS Paper - 3
+• Conservation
+• Achievements of Indians in Science & Technology
+
+
+Why in News?
+
+
+TheMinistry of Financehas givenin-principle approvalfor setting upMaitriII, India’snew research stationineastAntarctica.
+
+
+What is Maitri II?
+
+
+• About:Maitri IIisIndia's upcoming and fourth research station in Antarctica, scheduled to be completed byJanuary 2029.Itstrengthens India’s long-term scientific presenceunder theAntarctic Treaty System (ATS, 1959).
+• Purpose & Need:It is being built toreplace the old Maitri station (1989), which hassurpassed its original design lifeof 10 years and has issues likeflawed waste management.
+• Nodal Agency:The project is led by theNational Centre for Polar and Ocean Research (NCPOR)inGoa, under theMinistry of Earth Sciences.
+• Key Features:Larger and Greener:Bigger than the originalMaitri, planned as a"green research base."Renewable Energy:Usessolar powerfor summer andwind energyto harness Antarctic winds.Advanced Technology:Equipped withautomated instrumentsto record and relay data tomainland Indiaeven when unmanned.Improved Infrastructure:Featuresupgraded living conditionsandimproved toilets.
+• Significance:Antarcticacontains75% of Earth’s freshwater, and studying itsice sheetsis crucial forforecasting sea-level rise.Critical for understandinguntapped mineral deposits,marine biodiversity, andecological baselines.ReinforcesIndia’s voiceinglobal climateandpolar governance discussions.
+
+• Itstrengthens India’s long-term scientific presenceunder theAntarctic Treaty System (ATS, 1959).
+
+• Larger and Greener:Bigger than the originalMaitri, planned as a"green research base."
+• Renewable Energy:Usessolar powerfor summer andwind energyto harness Antarctic winds.
+• Advanced Technology:Equipped withautomated instrumentsto record and relay data tomainland Indiaeven when unmanned.
+• Improved Infrastructure:Featuresupgraded living conditionsandimproved toilets.
+
+• Antarcticacontains75% of Earth’s freshwater, and studying itsice sheetsis crucial forforecasting sea-level rise.
+• Critical for understandinguntapped mineral deposits,marine biodiversity, andecological baselines.
+• ReinforcesIndia’s voiceinglobal climateandpolar governance discussions.
+
+
+India’s Other Research Stations in Antarctica
+
+
+• Dakshin Gangotri (1983):Dakshin Gangotri, established under theIndian Antarctic Programin 1983, was India’s firstscientific research base in Antarctica, but it wassubmerged in iceanddecommissioned in 1990.TheIndian Antarctic Programme, led byNCPOR, began in1981to conductscientific researchand protectIndia’s interestsin thepolar region.
+• Maitri (1989): Maitriis India’ssecond permanent research station in Antarctica, established in1989.It is located in therocky mountainous Schirmacher Oasis, and India also created afreshwater lakenearby, calledLake Priyadarshini.
+• Bharti (2012):Located about3,000 km east of Maitri, the‘Bharati’ research stationlies betweenThala FjordandQuilty Bay.Commissioned in2012, it has acompact designand supportsyear-round scientific researchunder theIndian Antarctic Program.
+
+• TheIndian Antarctic Programme, led byNCPOR, began in1981to conductscientific researchand protectIndia’s interestsin thepolar region.
+
+• It is located in therocky mountainous Schirmacher Oasis, and India also created afreshwater lakenearby, calledLake Priyadarshini.
+
+• Commissioned in2012, it has acompact designand supportsyear-round scientific researchunder theIndian Antarctic Program.
+
+
+Did You Know?
+
+
+• Antarcticais thefifth-largest continent, located within theAntarctic Circleand surrounded by theSouthern Ocean. It spans about14 million sq. km, with98% covered by iceand containing over75% of Earth’s freshwater reserves.
+• Antarcticahasno native human population, and human presence is limited toscientific researchersat about69 research stations.
+• TheAntarctic Treaty, signed in1959, was designed togovern the continent, ensuring it is used forpeaceful purposes and scientific cooperation, while suspendingterritorial claims.
+
+
+Frequently Asked Questions (FAQs)
+
+
+1. What is Maitri II?Maitri II is India’s fourth research station in Antarctica, approved by the Finance Ministry to replace the aging Maitri station. It is designed as a modern, green, and technologically advanced base with completion targeted by January 2029.
+
+2. What are India’s other Antarctic research stations?Dakshin Gangotri (1983)-India’s first base, decommissioned in 1990, Maitri (1989)- Located in Schirmacher Oasis, supports seasonal and year-round research and Bharati (2012)- Compact station east of Maitri for continuous scientific research under the Indian Antarctic Program.
+
+3. Why is Antarctica important for global climate and science?It covers 14 million sq. km, is 98% ice, holds over 75% of Earth’s freshwater, drives global ocean currents, and regulates climate.
+
+
+UPSC Civil Services Examination, Previous Year Question (PYQ)
+
+
+Q. The term ‘IndARC’, sometimes seen in the news, is the name of (2015)
+
+(a) an indigenously developed radar system inducted into Indian Defence
+
+(b) India’s satellite to provide services to the countries of Indian Ocean Rim
+
+(c) a scientific establishment set up by India in Antarctic region
+
+(d) India’s underwater observatory to scientifically study the Arctic region
+
+
+Rapid Fire
+
+
+• Rapid Fire CA
+• Quick Facts For Prelims
+• GS Paper - 2
+
+AnIndian Army contingent has departed for Australiato participate in the fourth edition of theIndia-Australia joint military exercise ‘AUSTRAHIND 2025’, highlighting growingdefence cooperationbetween the two nations.
+
+• Exercise AUSTRAHIND:It was instituted in2022and the first edition was conducted in Mahajan, Rajasthan.It is planned to be an annual training event to be conductedalternatively in India and Australia.AUSTRAHIND aims to foster collaborative partnership and share best practices between the two sides.The exercise will also promote inter- operability while undertaking multi-domain operations in Urban and Semi- Urban terrain underChapter VII of United Nations on peace keeping operations.
+• India-Australia Defence Relations:India’s defence ties with Australia gained momentum after both countries becameComprehensive Strategic Partners in 2020and signed aMutual Logistics Support Agreement in 2021.Both countries also participate in multilateral exercises such asMalabar,Talisman Sabre, andCope India,reflecting their shared commitment to regional security and interoperability in the Indo-Pacific.
+
+• It is planned to be an annual training event to be conductedalternatively in India and Australia.
+• AUSTRAHIND aims to foster collaborative partnership and share best practices between the two sides.
+• The exercise will also promote inter- operability while undertaking multi-domain operations in Urban and Semi- Urban terrain underChapter VII of United Nations on peace keeping operations.
+
+• Both countries also participate in multilateral exercises such asMalabar,Talisman Sabre, andCope India,reflecting their shared commitment to regional security and interoperability in the Indo-Pacific.
+
+
+Rapid Fire
+
+
+• Rapid Fire CA
+• Quick Facts For Prelims
+• GS Paper - 3
+• IT & Computers
+
+In a major move towardsindigenising digital infrastructurethe Government of India has migrated over 12 lakh official email accounts, including those of thePrime Minister’s Office (PMO), fromNational Informatics Centreto a Zoho-developed platform, reinforcing data sovereignty and Swadeshi tech adoption.
+
+
+Zoho
+
+
+• About:Zoho Corporationis aglobalSoftware-as-a-Service (SaaS)leaderfounded in1996inIndia. Headquartered inChennai, it serves over100 million usersacross more than150 countries.It offers a vast portfolio of over55 cloud-based business applications, includingZoho WorkplaceandZoho Office Suite, which directly compete withMicrosoft 365andGoogle Workspace.
+• Security Framework:Zoho platform isaudited regularly by Software Quality Systems (SQS).Security clearance and inputs were obtained fromNIC, CERT-In, and other government agencies.
+• Key Differentiators:Privacy-First Model:It differentiates itself by not relying onad revenue, thereby prioritisinguser data privacy.Cost-Effectiveness:Itsservicesare generally moreaffordablethan those of itscompetitors, making it popular amongsmall and medium-sized businesses.
+• Self-Reliant India vision:Despite being incorporated in theUS, the company runs its major operations fromrural Tamil Nadu, aligning with theAtmanirbhar Bharat(Self-Reliant India) vision.
+
+• It offers a vast portfolio of over55 cloud-based business applications, includingZoho WorkplaceandZoho Office Suite, which directly compete withMicrosoft 365andGoogle Workspace.
+
+• Security clearance and inputs were obtained fromNIC, CERT-In, and other government agencies.
+
+• Privacy-First Model:It differentiates itself by not relying onad revenue, thereby prioritisinguser data privacy.
+• Cost-Effectiveness:Itsservicesare generally moreaffordablethan those of itscompetitors, making it popular amongsmall and medium-sized businesses.
+
+
+Rapid Fire
+
+
+• Rapid Fire CA
+• Quick Facts For Prelims
+• Health
+
+The Ministry of Ayushlaunched theDRAVYA portal (Digitised Retrieval Application for Versatile Yardstick of Ayush)in Goa, marking the creation of the most comprehensive digital repository of Ayurvedic ingredients and formulations.
+
+
+DRAVYA Portal
+
+
+• About:TheDRAVYA Portalis a landmark in India’s Ayush digital transformation, bridgingtraditional knowledge and modern innovation.AI-ready platform, enabling integration with theAyush Gridand other Ministry initiatives to strengthenresearch, regulation, and global recognitionof India’s rich medicinal heritage.In itsfirst phase, it aims tocatalogue 100 key medicinal substances, ensuring precision and authenticity through a dedicated data-entry software.
+• Developed by: Central Council for Research in Ayurvedic Sciences (CCRAS), an autonomous body under theMinistry of AYUSH.
+• Key Features:Contains detailed profiles of Ayurvedic substances acrosspharmacotherapeutics, botany, chemistry, pharmacology, and safety data.Facilitates intelligent data analysis, linking with theAyush Gridand national health databases forpolicy, research, and innovation.Supportsresearchers, practitioners, students, and policymakersin evidence-based study, pharmacopoeial harmonisation, and drug validation.
+
+• AI-ready platform, enabling integration with theAyush Gridand other Ministry initiatives to strengthenresearch, regulation, and global recognitionof India’s rich medicinal heritage.
+• In itsfirst phase, it aims tocatalogue 100 key medicinal substances, ensuring precision and authenticity through a dedicated data-entry software.
+
+• Contains detailed profiles of Ayurvedic substances acrosspharmacotherapeutics, botany, chemistry, pharmacology, and safety data.
+• Facilitates intelligent data analysis, linking with theAyush Gridand national health databases forpolicy, research, and innovation.
+• Supportsresearchers, practitioners, students, and policymakersin evidence-based study, pharmacopoeial harmonisation, and drug validation.
