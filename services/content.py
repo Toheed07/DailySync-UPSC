@@ -41,7 +41,7 @@ def generate_and_save_content(date: str):
             all_mindmaps = []
             all_pyqs = {"prelims": [], "mains": []}
             
-            for section in sections:
+            for section_index, section in enumerate(sections):
                 # Get section content (it's an array, so join it)
                 section_content = section.get("content", [])
                 if isinstance(section_content, list):
@@ -49,21 +49,39 @@ def generate_and_save_content(date: str):
                 else:
                     section_text = str(section_content)
                 
-                # Generate cards
+                # Get section title for reference
+                section_title = section.get("title", f"Section {section_index + 1}")
+                
+                # Generate cards with section reference
                 section_cards = create_cards(content=section_text)
                 if isinstance(section_cards, list):
+                    for card in section_cards:
+                        if isinstance(card, dict):
+                            card["section_index"] = section_index
+                            card["section_title"] = section_title
                     all_cards.extend(section_cards)
                 
-                # Generate mindmap
+                # Generate mindmap with section reference
                 mindmap = create_mindmap(content=section_text)
+                if isinstance(mindmap, dict):
+                    mindmap["section_index"] = section_index
+                    mindmap["section_title"] = section_title
                 all_mindmaps.append(mindmap)
                 
-                # Generate PYQ
+                # Generate PYQ with section reference
                 pyq = create_pyq(content=section_text)
                 if isinstance(pyq, dict):
                     if "prelims" in pyq and isinstance(pyq["prelims"], list):
+                        for prelim_q in pyq["prelims"]:
+                            if isinstance(prelim_q, dict):
+                                prelim_q["section_index"] = section_index
+                                prelim_q["section_title"] = section_title
                         all_pyqs["prelims"].extend(pyq["prelims"])
                     if "mains" in pyq and isinstance(pyq["mains"], list):
+                        for mains_q in pyq["mains"]:
+                            if isinstance(mains_q, dict):
+                                mains_q["section_index"] = section_index
+                                mains_q["section_title"] = section_title
                         all_pyqs["mains"].extend(pyq["mains"])
             
             # Step 4: Save to database
