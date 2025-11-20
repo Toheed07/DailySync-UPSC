@@ -120,12 +120,3 @@ async def generate_and_save_content(date: str):
         raise HTTPException(status_code=500, detail=f"Error generating content: {str(e)}")
 
 
-@router.get("/scrape/{date}")
-async def scrape_content(url: str):
-    """
-    Scrape content from a URL (legacy endpoint).
-    """
-    output_file = scrape_article(url=url, output_file="date")
-    with open(output_file, "r") as f:
-        content = f.read()
-    return {"content": content}

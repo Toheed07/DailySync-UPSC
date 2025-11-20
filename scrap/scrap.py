@@ -89,6 +89,7 @@ def scrape_article(url: str, output_file: str):
     try:
         pwd = os.path.dirname(os.path.abspath(__file__))
         output_file = os.path.join(pwd, f"../data/{output_file}")
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
         with open(output_file, "w", encoding="utf-8") as f:
             if title:
                 f.write(title + "\n")
