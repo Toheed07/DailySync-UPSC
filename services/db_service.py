@@ -4,7 +4,7 @@ from config.db import db
 
 
 def save_daily_content(date: str, sections: List[Dict], cards: List[Dict], 
-                       mindmap: Dict, pyq: Dict) -> bool:
+                       mindmap: Dict, pyq: Dict, overall_review: Dict) -> bool:
     """
     Save all daily content (sections, cards, mindmap, pyq) to Firestore.
     
@@ -14,7 +14,7 @@ def save_daily_content(date: str, sections: List[Dict], cards: List[Dict],
         cards: List of card dictionaries
         mindmap: Mindmap dictionary
         pyq: PYQ dictionary with prelims and mains
-        
+        overall_review: Overall review dictionary
     Returns:
         bool: True if successful, False otherwise
     """
@@ -29,6 +29,7 @@ def save_daily_content(date: str, sections: List[Dict], cards: List[Dict],
             "cards": cards,
             "mindmap": mindmap,
             "pyq": pyq,
+            "overall_review": overall_review,
             "created_at": datetime.now(),
             "updated_at": datetime.now()
         }

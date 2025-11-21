@@ -4,6 +4,7 @@ from agents.cards import create_cards
 from agents.mindmap import create_mindmap
 from agents.pyq import create_pyq
 from agents.analyse import extract_sections
+from agents.review import review_all_content
 from services.db_service import save_daily_content
 
 
@@ -84,13 +85,36 @@ def generate_and_save_content(date: str):
                                 mains_q["section_title"] = section_title
                         all_pyqs["mains"].extend(pyq["mains"])
             
-            # Step 4: Save to database
-            success = save_daily_content(
-                date=date,
+            # Step 4: Review and correct all content
+            print(f"Reviewing content for date {date}...")
+            review_results = review_all_content(
                 sections=sections,
                 cards=all_cards,
-                mindmap={"mindmaps": all_mindmaps},  # Store all mindmaps
-                pyq=all_pyqs
+                mindmaps=all_mindmaps,
+                pyq=all_pyqs,
+                original_text=article
+            )
+            
+            # Extract corrected content
+            corrected_sections = review_results["sections"]["corrected_sections"]
+            corrected_cards = review_results["cards"]["corrected_cards"]
+            corrected_mindmaps = [result["corrected_mindmap"] for result in review_results["mindmaps"]]
+            corrected_pyq = review_results["pyq"]["corrected_pyq"]
+            
+            # Log review summary
+            overall_review = review_results["overall_review"]
+            print(f"Review completed: {overall_review['total_issues']} issues found, "
+                  f"{overall_review['total_corrections']} corrections made, "
+                  f"accuracy: {overall_review['average_accuracy']:.2%}")
+            
+            # Step 5: Save corrected content to database
+            success = save_daily_content(
+                date=date,
+                sections=corrected_sections,
+                cards=corrected_cards,
+                mindmap={"mindmaps": corrected_mindmaps},  # Store all mindmaps
+                pyq=corrected_pyq,
+                overall_review=overall_review
             )
             
             if not success:
@@ -103,11 +127,16 @@ def generate_and_save_content(date: str):
             return {
                 "message": "Content generated and saved successfully",
                 "date": date,
-                "sections_count": len(sections),
-                "cards_count": len(all_cards),
-                "mindmaps_count": len(all_mindmaps),
-                "prelims_count": len(all_pyqs["prelims"]),
-                "mains_count": len(all_pyqs["mains"])
+                "sections_count": len(corrected_sections),
+                "cards_count": len(corrected_cards),
+                "mindmaps_count": len(corrected_mindmaps),
+                "prelims_count": len(corrected_pyq.get("prelims", [])),
+                "mains_count": len(corrected_pyq.get("mains", [])),
+                "review_summary": {
+                    "total_issues": overall_review["total_issues"],
+                    "total_corrections": overall_review["total_corrections"],
+                    "average_accuracy": overall_review["average_accuracy"]
+                }
             }
             
         except Exception as e:

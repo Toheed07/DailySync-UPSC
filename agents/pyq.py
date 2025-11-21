@@ -58,6 +58,27 @@ RULES:
 - Include key points/answer framework for Mains questions
 - Questions should be based on the content provided
 - Use realistic year values (2020-2025)
+
+Example:
+Prelims:
+Q. Which of the following are the reasons for the occurrence of multi-drug resistance in microbial pathogens in India? (2019)
+
+Genetic predisposition of some people
+Taking incorrect doses of antibiotics to cure diseases
+Using antibiotics in livestock farming
+Multiple chronic diseases in some people
+Select the correct answer using the code given below.
+
+(a) 1 and 2
+
+(b) 2 and 3 only
+
+(c) 1, 3 and 4
+
+(d) 2, 3 and 4
+
+Mains:
+Q. Can overuse and free availability of antibiotics without Doctor’s prescription, be contributors to the emergence of drug-resistant diseasesin India? What are the available mechanisms for monitoring and control? Critically discuss the various issues involved. (2014)
 """
 
     response = client.models.generate_content(
