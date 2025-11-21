@@ -2,12 +2,21 @@
 
 ## Introduction | Overview
 
-UPSC aspirants face the challenge of processing vast amounts of daily current affairs from multiple sources. Manually extracting relevant information, creating study materials, and generating practice questions is time-consuming and often inconsistent. This problem becomes more complex when you need to:
+In India, civil service aspirants, especially the ones preparing for UPSC, have to have knowledge of current affairs, they need to know what’s happening around the globe and in India. The aspirants have to read from 2–3 sources in order to build a good idea and understanding. After that, they also have to prepare study materials, so this whole process takes at least 1 hour of their day. They have to visit the same websites every day and manually extract the information.
 
-- Scrape content from multiple news sources daily
-- Filter and prioritize content based on UPSC relevance
-- Generate structured study materials (recall cards, mindmaps, practice questions)
-- Store and retrieve content efficiently for later review
+I had prepared for the UPSC exam myself, and although I eventually gave up on it, I still remember the routine — visiting different websites like VisionIAS, DrishtiIAS, and others every day to read current affairs. After that, I had to make quick notes from them, which took a lot of time. I was basically doing the same thing every single day.
+
+This project is designed to solve that problem. The goal is to reduce the daily workload for aspirants and deliver structured, high-quality learning material without the manual repetition.
+It’s not a “content generator” — instead, it’s an intelligent learning engine that organizes real current-affairs data into mind maps, recall cards, GS-tagged topics, and exam-ready notes.
+
+Today we will be making a simple UI but a powerful backend web application that does:
+
+- Scrape content from multiple news sources which are most used
+- Analyse all of the content
+- Generate cards, mindmaps, and PYQs based on them
+- Have a review model to check their authenticity
+- Display them in a simple and easy-to-read way
+
 
 **Target Audience**: This blog is for developers with intermediate Python knowledge, basic understanding of REST APIs, and familiarity with cloud services. You should be comfortable with:
 - Python 3.13+
