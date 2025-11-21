@@ -32,6 +32,8 @@ app.include_router(content_router, prefix="/api", tags=["Content"])
 async def root():
     return {
         "message": "Welcome to DailySync UPSC",
+        "frontend": "https://dailysync-upsc.netlify.app",
+        "backend": "https://dailysync-upsc-416562352574.europe-west1.run.app",
         "status": "running",
         "version": "1.0.0"
     }
