@@ -39,6 +39,10 @@ Today we will be making a simple UI but a powerful backend web application that 
 - **API Documentation**: [https://dailysync-upsc-416562352574.europe-west1.run.app/docs](https://dailysync-upsc-416562352574.europe-west1.run.app/docs)
 - **API Base URL**: `https://dailysync-upsc-416562352574.europe-west1.run.app`
 
+### Blog
+- **Project Overview Blog:**  
+  https://medium.com/@toheedjamaal9/building-an-ai-powered-upsc-ca-content-generator-with-fastapi-and-google-cloud-53ded747c4ba?postPublishedType=repub
+
 
 ## Design
 
