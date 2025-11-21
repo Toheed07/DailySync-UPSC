@@ -15,33 +15,36 @@ RETRY_DELAY = 5  # seconds
 def generate_and_save_content(date: str):
     """
     Scrape, analyze, and generate all content for a date, then save to database.
-    
+
     Args:
         date: Date string in format "DD-MM-YYYY" (e.g., "13-10-2025")
-        
+
     Returns:
         Dict with success status and content counts, or None on failure
     """
     for attempt in range(MAX_RETRIES):
         try:
             # Step 1: Scrape articles
+            print(f"Scraping articles for date {date}...")
             article = scrape_all_articles(date=date)
-            
+
             # Step 2: Extract sections
+            print(f"Extracting sections for date {date}...")
             sections = extract_sections(article_text=article)
-            
+
             if not sections:
                 print(f"No sections extracted from article for date {date}")
                 if attempt < MAX_RETRIES - 1:
                     time.sleep(RETRY_DELAY)
                     continue
                 return None
-            
+
             # Step 3: Generate content for each section
+            print(f"Generating content for each section for date {date}...")
             all_cards = []
             all_mindmaps = []
             all_pyqs = {"prelims": [], "mains": []}
-            
+
             for section_index, section in enumerate(sections):
                 # Get section content (it's an array, so join it)
                 section_content = section.get("content", [])
@@ -49,11 +52,14 @@ def generate_and_save_content(date: str):
                     section_text = "\n".join(section_content)
                 else:
                     section_text = str(section_content)
-                
+
                 # Get section title for reference
                 section_title = section.get("title", f"Section {section_index + 1}")
-                
+
                 # Generate cards with section reference
+                print(
+                    f"Generating cards for section {section_title} for date {date}..."
+                )
                 section_cards = create_cards(content=section_text)
                 if isinstance(section_cards, list):
                     for card in section_cards:
@@ -61,15 +67,19 @@ def generate_and_save_content(date: str):
                             card["section_index"] = section_index
                             card["section_title"] = section_title
                     all_cards.extend(section_cards)
-                
+
                 # Generate mindmap with section reference
+                print(
+                    f"Generating mindmap for section {section_title} for date {date}..."
+                )
                 mindmap = create_mindmap(content=section_text)
                 if isinstance(mindmap, dict):
                     mindmap["section_index"] = section_index
                     mindmap["section_title"] = section_title
                 all_mindmaps.append(mindmap)
-                
+
                 # Generate PYQ with section reference
+                print(f"Generating PYQ for section {section_title} for date {date}...")
                 pyq = create_pyq(content=section_text)
                 if isinstance(pyq, dict):
                     if "prelims" in pyq and isinstance(pyq["prelims"], list):
@@ -84,46 +94,51 @@ def generate_and_save_content(date: str):
                                 mains_q["section_index"] = section_index
                                 mains_q["section_title"] = section_title
                         all_pyqs["mains"].extend(pyq["mains"])
-            
+
             # Step 4: Review and correct all content
             print(f"Reviewing content for date {date}...")
+            print(f"Reviewing sections for date {date}...")
             review_results = review_all_content(
                 sections=sections,
                 cards=all_cards,
                 mindmaps=all_mindmaps,
                 pyq=all_pyqs,
-                original_text=article
+                original_text=article,
             )
-            
+
             # Extract corrected content
             corrected_sections = review_results["sections"]["corrected_sections"]
             corrected_cards = review_results["cards"]["corrected_cards"]
-            corrected_mindmaps = [result["corrected_mindmap"] for result in review_results["mindmaps"]]
+            corrected_mindmaps = [
+                result["corrected_mindmap"] for result in review_results["mindmaps"]
+            ]
             corrected_pyq = review_results["pyq"]["corrected_pyq"]
-            
+
             # Log review summary
             overall_review = review_results["overall_review"]
-            print(f"Review completed: {overall_review['total_issues']} issues found, "
-                  f"{overall_review['total_corrections']} corrections made, "
-                  f"accuracy: {overall_review['average_accuracy']:.2%}")
-            
+            print(
+                f"Review completed: {overall_review['total_issues']} issues found, "
+                f"{overall_review['total_corrections']} corrections made, "
+                f"accuracy: {overall_review['average_accuracy']:.2%}"
+            )
+
             # Step 5: Save corrected content to database
             success = save_daily_content(
                 date=date,
                 sections=corrected_sections,
                 cards=corrected_cards,
-                mindmap={"mindmaps": corrected_mindmaps},  # Store all mindmaps
+                mindmap={"mindmaps": corrected_mindmaps},
                 pyq=corrected_pyq,
-                overall_review=overall_review
+                overall_review=overall_review,
             )
-            
+
             if not success:
                 print(f"Failed to save content to database for date {date}")
                 if attempt < MAX_RETRIES - 1:
                     time.sleep(RETRY_DELAY)
                     continue
                 return None
-            
+
             return {
                 "message": "Content generated and saved successfully",
                 "date": date,
@@ -135,17 +150,17 @@ def generate_and_save_content(date: str):
                 "review_summary": {
                     "total_issues": overall_review["total_issues"],
                     "total_corrections": overall_review["total_corrections"],
-                    "average_accuracy": overall_review["average_accuracy"]
-                }
+                    "average_accuracy": overall_review["average_accuracy"],
+                },
             }
-            
+
         except Exception as e:
-            print(f"Error generating content for date {date} (attempt {attempt + 1}/{MAX_RETRIES}): {str(e)}")
+            print(
+                f"Error generating content for date {date} (attempt {attempt + 1}/{MAX_RETRIES}): {str(e)}"
+            )
             if attempt < MAX_RETRIES - 1:
                 time.sleep(RETRY_DELAY)
                 continue
             return None
-    
+
     return None
-
-

@@ -22,6 +22,16 @@ UPSC aspirants face the challenge of processing vast amounts of daily current af
 - Provides a RESTful API for content retrieval
 - Runs as a containerized microservice with background processing
 
+## URLs
+
+### Frontend
+- **Live Application**: [https://dailysync-upsc.netlify.app/](https://dailysync-upsc.netlify.app/)
+
+### Backend API
+- **API Documentation**: [https://dailysync-upsc-416562352574.europe-west1.run.app/docs](https://dailysync-upsc-416562352574.europe-west1.run.app/docs)
+- **API Base URL**: `https://dailysync-upsc-416562352574.europe-west1.run.app`
+
+
 ## Design
 
 ### Architecture Overview
@@ -665,11 +675,5 @@ When presenting results:
 - Add collaborative features for study groups
 
 ## Call to Action
-
-To learn more about Google Cloud services and to create impact for the work you do, get around to these steps right away:
-
-- Register for Code Vipassana sessions
-- Join the meetup group Datapreneur Social
-- Sign up to become Google Cloud Innovator
 
 
